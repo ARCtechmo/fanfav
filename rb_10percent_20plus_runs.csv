@@ -1,15 +1,13 @@
 season,seasonType,firstName,lastName,position,teamName,Rushing Attempts,Rushing Yards,Yards per Rush,Longest Rush,20plus Yard Rushes,Rushing Yards per Game,20plus_pct
-2024,2,J.K.,Dobbins,Running Back,Chargers,27,266,9.9,61,3,133.0,0.11
-2024,2,Kyler,Murray,Quarterback,Cardinals,10,116,11.6,29,2,58.0,0.2
-2024,2,Anthony,Richardson,Quarterback,Colts,10,93,9.3,21,1,46.5,0.1
-2024,2,Will,Levis,Quarterback,Titans,8,74,9.3,21,1,37.0,0.12
-2024,2,Jayden,Reed,Wide Receiver,Packers,3,70,23.3,33,2,35.0,0.67
-2024,2,Bo,Nix,Quarterback,Broncos,9,60,6.7,23,1,30.0,0.11
-2024,2,Caleb,Williams,Quarterback,Bears,10,59,5.9,24,1,29.5,0.1
-2024,2,Trevor,Lawrence,Quarterback,Jaguars,3,53,17.7,33,1,26.5,0.33
-2024,2,Emari,Demercado,Running Back,Cardinals,2,46,23.0,41,1,23.0,0.5
-2024,2,Geno,Smith,Quarterback,Seahawks,9,38,4.2,34,1,19.0,0.11
-2024,2,Xavier,Worthy,Wide Receiver,Chiefs,2,26,13.0,21,1,13.0,0.5
+2024,2,Kyler,Murray,Quarterback,Cardinals,15,161,10.7,29,3,53.7,0.2
+2024,2,Malik,Willis,Quarterback,Packers,12,114,9.5,29,2,38.0,0.17
+2024,2,Bo,Nix,Quarterback,Broncos,18,107,5.9,23,2,35.7,0.11
+2024,2,Jayden,Reed,Wide Receiver,Packers,5,89,17.8,33,2,29.7,0.4
+2024,2,Tyler,Badie,Running Back,Broncos,10,86,8.6,43,1,43.0,0.1
+2024,2,Trevor,Lawrence,Quarterback,Jaguars,5,56,11.2,33,1,18.7,0.2
+2024,2,Emari,Demercado,Running Back,Cardinals,4,53,13.3,41,1,17.7,0.25
+2024,2,Xavier,Worthy,Wide Receiver,Chiefs,5,39,7.8,21,1,13.0,0.2
+2024,2,Ray-Ray,McCloud III,Wide Receiver,Falcons,2,23,11.5,20,1,7.7,0.5
 2023,2,Keaton,Mitchell,Running Back,Ravens,47,396,8.4,60,7,49.5,0.15
 2023,2,Jayden,Reed,Wide Receiver,Packers,11,119,10.8,32,3,7.4,0.27
 2023,2,KaVontae,Turpin,Wide Receiver,Cowboys,11,110,10.0,46,2,6.9,0.18
