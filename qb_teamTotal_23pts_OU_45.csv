@@ -1,0 +1,13 @@
+year,week,gameID,gameDate,name,team,abbr,homeAway,opponent,avg_over_under,avg_team_total
+2024.0,5.0,2656673.0,2024-10-06 16:05:00,Brock Purdy,49ers,SF,home,Cardinals,49.875,28.65
+2024.0,5.0,2656655.0,2024-10-06 13:00:00,C.J. Stroud,Texans,HOU,home,Bills,47.25,24.2
+2024.0,5.0,2656653.0,2024-10-06 13:00:00,Joe Burrow,Bengals,CIN,home,Ravens,49.0,23.275
+2024.0,5.0,2656653.0,2024-10-06 13:00:00,Lamar Jackson,Ravens,BAL,away,Bengals,49.0,25.775
+2024.0,5.0,2656655.0,2024-10-06 13:00:00,Josh Allen,Bills,BUF,away,Texans,47.25,23.075
+2024.0,5.0,2656659.0,2024-10-06 13:00:00,Trevor Lawrence,Jaguars,JAX,home,Colts,46.0,24.525
+2024.0,5.0,2656683.0,2024-10-06 16:25:00,Jordan Love,Packers,GB,away,Rams,48.5,25.8
+2024.0,5.0,2656683.0,2024-10-06 16:25:00,Malik Willis,Packers,GB,away,Rams,48.5,25.8
+2024.0,5.0,2656655.0,2024-10-06 13:00:00,Davis Mills,Texans,HOU,home,Bills,47.25,24.2
+2024.0,5.0,2656659.0,2024-10-06 13:00:00,Mac Jones,Jaguars,JAX,home,Colts,46.0,24.525
+2024.0,5.0,2656655.0,2024-10-06 13:00:00,Stefon Diggs,Texans,HOU,home,Bills,47.25,24.2
+2024.0,5.0,2656655.0,2024-10-06 13:00:00,Mitchell Trubisky,Bills,BUF,away,Texans,47.25,23.075
