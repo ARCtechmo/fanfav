@@ -1,13 +1,15 @@
 season,seasonType,firstName,lastName,position,teamName,Rushing Attempts,Rushing Yards,Yards per Rush,Longest Rush,20plus Yard Rushes,Rushing Yards per Game,20plus_pct
-2024,2,Kyler,Murray,Quarterback,Cardinals,15,161,10.7,29,3,53.7,0.2
+2024,2,Kenneth,Walker III,Running Back,Seahawks,32,183,5.7,28,4,91.5,0.12
+2024,2,Tank,Bigsby,Running Back,Jaguars,21,172,8.2,58,3,43.0,0.14
+2024,2,Kyler,Murray,Quarterback,Cardinals,16,164,10.3,29,3,41.0,0.19
 2024,2,Malik,Willis,Quarterback,Packers,12,114,9.5,29,2,38.0,0.17
-2024,2,Bo,Nix,Quarterback,Broncos,18,107,5.9,23,2,35.7,0.11
-2024,2,Jayden,Reed,Wide Receiver,Packers,5,89,17.8,33,2,29.7,0.4
-2024,2,Tyler,Badie,Running Back,Broncos,10,86,8.6,43,1,43.0,0.1
-2024,2,Trevor,Lawrence,Quarterback,Jaguars,5,56,11.2,33,1,18.7,0.2
-2024,2,Emari,Demercado,Running Back,Cardinals,4,53,13.3,41,1,17.7,0.25
-2024,2,Xavier,Worthy,Wide Receiver,Chiefs,5,39,7.8,21,1,13.0,0.2
-2024,2,Ray-Ray,McCloud III,Wide Receiver,Falcons,2,23,11.5,20,1,7.7,0.5
+2024,2,Jayden,Reed,Wide Receiver,Packers,6,91,15.2,33,2,22.8,0.33
+2024,2,Emari,Demercado,Running Back,Cardinals,8,77,9.6,41,1,19.3,0.12
+2024,2,Jeremy,McNichols,Running Back,Commanders,9,69,7.7,27,1,17.3,0.11
+2024,2,Trevor,Lawrence,Quarterback,Jaguars,8,61,7.6,33,1,15.3,0.12
+2024,2,Tyler,Huntley,Quarterback,Dolphins,8,40,5.0,20,1,40.0,0.12
+2024,2,Xavier,Worthy,Wide Receiver,Chiefs,5,39,7.8,21,1,9.8,0.2
+2024,2,Ray-Ray,McCloud III,Wide Receiver,Falcons,2,23,11.5,20,1,4.6,0.5
 2023,2,Keaton,Mitchell,Running Back,Ravens,47,396,8.4,60,7,49.5,0.15
 2023,2,Jayden,Reed,Wide Receiver,Packers,11,119,10.8,32,3,7.4,0.27
 2023,2,KaVontae,Turpin,Wide Receiver,Cowboys,11,110,10.0,46,2,6.9,0.18
