@@ -1,0 +1,10 @@
+year,week,gameID,gameDate,name,team,abbr,homeAway,opponent,avg_over_under,avg_team_total
+2024.0,6.0,2656797.0,2024-10-13 16:25:00,Dak Prescott,Cowboys,DAL,home,Lions,52.25,24.65
+2024.0,6.0,2656758.0,2024-10-10 20:15:00,Brock Purdy,49ers,SF,away,Seahawks,48.875,26.224999999999998
+2024.0,6.0,2656794.0,2024-10-13 16:25:00,Kirk Cousins,Falcons,ATL,away,Panthers,46.875,26.5
+2024.0,6.0,2656800.0,2024-10-13 20:20:00,Joe Burrow,Bengals,CIN,away,Giants,48.125,25.775
+2024.0,6.0,2656760.0,2024-10-13 13:00:00,Lamar Jackson,Ravens,BAL,home,Commanders,51.5,29.0
+2024.0,6.0,2656797.0,2024-10-13 16:25:00,Jared Goff,Lions,DET,away,Cowboys,52.25,27.65
+2024.0,6.0,2656768.0,2024-10-13 13:00:00,Jordan Love,Packers,GB,home,Cardinals,47.5,26.349999999999998
+2024.0,6.0,2656768.0,2024-10-13 13:00:00,Malik Willis,Packers,GB,home,Cardinals,47.5,26.349999999999998
+2024.0,6.0,2656797.0,2024-10-13 16:25:00,Jack Fox,Lions,DET,away,Cowboys,52.25,27.65
