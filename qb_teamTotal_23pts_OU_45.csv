@@ -1,0 +1,15 @@
+year,week,gameID,gameDate,name,team,abbr,homeAway,opponent,avg_over_under,avg_team_total
+2024.0,8.0,2656731.0,2024-10-27 20:20:00,Brock Purdy,49ers,SF,home,Cowboys,46.0,25.075
+2024.0,8.0,2656698.0,2024-10-27 13:00:00,Kirk Cousins,Falcons,ATL,away,Buccaneers,45.875,24.224999999999998
+2024.0,8.0,2656717.0,2024-10-27 13:00:00,Joe Burrow,Bengals,CIN,home,Eagles,47.875,24.875
+2024.0,8.0,2656678.0,2024-10-27 13:00:00,C.J. Stroud,Texans,HOU,home,Colts,46.125,25.625
+2024.0,8.0,2656712.0,2024-10-27 16:05:00,Josh Allen,Bills,BUF,away,Seahawks,47.0,25.025
+2024.0,8.0,2656661.0,2024-10-24 20:15:00,Sam Darnold,Vikings,MIN,away,Rams,48.125,25.525
+2024.0,8.0,2656680.0,2024-10-27 13:00:00,Jordan Love,Packers,GB,away,Jaguars,49.0,26.575
+2024.0,8.0,2656717.0,2024-10-27 13:00:00,Jalen Hurts,Eagles,PHI,away,Bengals,47.875,23.0
+2024.0,8.0,2656685.0,2024-10-27 13:00:00,Tua Tagovailoa,Dolphins,MIA,home,Cardinals,46.0,24.75
+2024.0,8.0,2656685.0,2024-10-27 13:00:00,Tyler Huntley,Dolphins,MIA,home,Cardinals,46.0,24.75
+2024.0,8.0,2656680.0,2024-10-27 13:00:00,Malik Willis,Packers,GB,away,Jaguars,49.0,26.575
+2024.0,8.0,2656685.0,2024-10-27 13:00:00,Skylar Thompson,Dolphins,MIA,home,Cardinals,46.0,24.75
+2024.0,8.0,2656685.0,2024-10-27 13:00:00,Tim Boyle,Dolphins,MIA,home,Cardinals,46.0,24.75
+2024.0,8.0,2656678.0,2024-10-27 13:00:00,Davis Mills,Texans,HOU,home,Colts,46.125,25.625
