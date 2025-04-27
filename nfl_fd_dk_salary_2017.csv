@@ -1,6 +1,6 @@
 season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
-2017,1,KAN,Kansas City Chiefs,DST,DST,2300,4300
-2017,1,NWE,New England Patriots,DST,DST,3400,4500
+2017,1,KC,Kansas City Chiefs,DST,DST,2300,4300
+2017,1,NE,New England Patriots,DST,DST,3400,4500
 2017,1,,Alex Smith,QB,QB,5400,6900
 2017,1,,Tom Brady,QB,QB,7600,8900
 2017,1,,Anthony Sherman,RB,RB,3000,4500
@@ -107,7 +107,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,1,,Cody Core,WR,WR,3000,4500
 2017,1,,Tyler Boyd,WR,WR,3600,4700
 2017,1,CAR,Carolina Panthers,DST,DST,3500,4900
-2017,1,SFO,San Francisco 49ers,DST,DST,2100,4000
+2017,1,SF,San Francisco 49ers,DST,DST,2100,4000
 2017,1,,Cam Newton,QB,QB,7100,7900
 2017,1,,Brian Hoyer,QB,QB,5100,6400
 2017,1,,Christian McCaffrey,RB,RB,5400,6500
@@ -131,7 +131,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,1,,Pierre Garcon,WR,WR,5300,6600
 2017,1,,Trent Taylor,WR,WR,3000,4500
 2017,1,IND,Indianapolis Colts,DST,DST,2700,4300
-2017,1,LAR,Los Angeles Rams,DST,DST,3200,4600
+2017,1,LA,Los Angeles Rams,DST,DST,3200,4600
 2017,1,,Jacoby Brissett,QB,QB,4000,6000
 2017,1,,Scott Tolzien,QB,QB,4500,6000
 2017,1,,Jared Goff,QB,QB,4800,6600
@@ -238,7 +238,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,1,,Brandon Tate,WR,WR,3000,4800
 2017,1,,Jordan Matthews,WR,WR,4400,6300
 2017,1,,Zay Jones,WR,WR,3500,4500
-2017,1,OAK,Oakland Raiders,DST,DST,2500,4700
+2017,1,LV,Oakland Raiders,DST,DST,2500,4700
 2017,1,TEN,Tennessee Titans,DST,DST,2600,4500
 2017,1,,Derek Carr,QB,QB,6700,7700
 2017,1,,Marcus Mariota,QB,QB,6800,7800
@@ -317,7 +317,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,1,,Ricardo Louis,WR,WR,3000,4500
 2017,1,,Sammie Coates,WR,WR,3800,4700
 2017,1,SEA,Seattle Seahawks,DST,DST,2900,4500
-2017,1,GNB,Green Bay Packers,DST,DST,2500,4200
+2017,1,GB,Green Bay Packers,DST,DST,2500,4200
 2017,1,,Russell Wilson,QB,QB,6900,8000
 2017,1,,Aaron Rodgers,QB,QB,7000,8300
 2017,1,,C.J. Prosise,RB,RB,4100,5300
@@ -368,7 +368,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,1,,Demaryius Thomas,WR,WR,6300,7200
 2017,1,,Emmanuel Sanders,WR,WR,5200,6600
 2017,1,,Isaiah McKenzie,WR,WR,3000,4500
-2017,1,NOR,New Orleans Saints,DST,DST,2400,4100
+2017,1,NO,New Orleans Saints,DST,DST,2400,4100
 2017,1,MIN,Minnesota Vikings,DST,DST,2900,4600
 2017,1,,Drew Brees,QB,QB,7200,8600
 2017,1,,Sam Bradford,QB,QB,5900,7000
@@ -465,7 +465,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,2,,Kelvin Benjamin,WR,WR,5600,6600
 2017,2,,Russell Shepard,WR,WR,3500,4900
 2017,2,CHI,Chicago Bears,DST,DST,2200,4200
-2017,2,TAM,Tampa Bay Buccaneers,DST,DST,3200,4500
+2017,2,TB,Tampa Bay Buccaneers,DST,DST,3200,4500
 2017,2,,Mike Glennon,QB,QB,4600,6600
 2017,2,,Jameis Winston,QB,QB,6300,7800
 2017,2,,Ryan Fitzpatrick,QB,QB,4400,6000
@@ -542,7 +542,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,2,,Demaryius Thomas,WR,WR,5900,7000
 2017,2,,Emmanuel Sanders,WR,WR,5200,6400
 2017,2,,Isaiah McKenzie,WR,WR,3000,4500
-2017,2,GNB,Green Bay Packers,DST,DST,2300,4100
+2017,2,GB,Green Bay Packers,DST,DST,2300,4100
 2017,2,ATL,Atlanta Falcons,DST,DST,2500,4300
 2017,2,,Aaron Rodgers,QB,QB,7400,9100
 2017,2,,Matt Ryan,QB,QB,7500,8200
@@ -620,8 +620,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,2,,Eli Rogers,WR,WR,3600,4600
 2017,2,,JuJu Smith-Schuster,WR,WR,3000,4800
 2017,2,,Martavis Bryant,WR,WR,5500,6200
-2017,2,NWE,New England Patriots,DST,DST,2500,4300
-2017,2,NOR,New Orleans Saints,DST,DST,2100,4000
+2017,2,NE,New England Patriots,DST,DST,2500,4300
+2017,2,NO,New Orleans Saints,DST,DST,2100,4000
 2017,2,,Tom Brady,QB,QB,7900,9200
 2017,2,,Drew Brees,QB,QB,7700,8700
 2017,2,,Brandon Bolden,RB,RB,3000,4500
@@ -647,7 +647,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,2,,Ted Ginn,WR,WR,4800,6100
 2017,2,,Tommylee Lewis,WR,WR,3000,4600
 2017,2,NYJ,New York Jets,DST,DST,2000,4000
-2017,2,OAK,Oakland Raiders,DST,DST,3500,5300
+2017,2,LV,Oakland Raiders,DST,DST,3500,5300
 2017,2,,Josh McCown,QB,QB,4500,6400
 2017,2,,Derek Carr,QB,QB,7200,8300
 2017,2,,Bilal Powell,RB,RB,5000,6400
@@ -673,7 +673,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,2,,Michael Crabtree,WR,WR,7100,7300
 2017,2,,Seth Roberts,WR,WR,3400,5300
 2017,2,PHI,Philadelphia Eagles,DST,DST,2900,4400
-2017,2,KAN,Kansas City Chiefs,DST,DST,2900,4500
+2017,2,KC,Kansas City Chiefs,DST,DST,2900,4500
 2017,2,,Carson Wentz,QB,QB,5900,7300
 2017,2,,Alex Smith,QB,QB,5700,7200
 2017,2,,Darren Sproles,RB,RB,3900,5300
@@ -696,7 +696,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,2,,De'Anthony Thomas,WR,WR,3000,4500
 2017,2,,Demarcus Robinson,WR,WR,3000,4500
 2017,2,,Tyreek Hill,WR,WR,6200,7200
-2017,2,SFO,San Francisco 49ers,DST,DST,2300,4000
+2017,2,SF,San Francisco 49ers,DST,DST,2300,4000
 2017,2,SEA,Seattle Seahawks,DST,DST,4000,5400
 2017,2,,Brian Hoyer,QB,QB,4500,6300
 2017,2,,Russell Wilson,QB,QB,6800,8100
@@ -751,7 +751,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,2,,Keelan Cole,WR,WR,3000,4500
 2017,2,,Marqise Lee,WR,WR,3800,5900
 2017,2,WAS,Washington Redskins,DST,DST,2900,4500
-2017,2,LAR,Los Angeles Rams,DST,DST,3000,4400
+2017,2,LA,Los Angeles Rams,DST,DST,3000,4400
 2017,2,,Kirk Cousins,QB,QB,6100,7700
 2017,2,,Jared Goff,QB,QB,5100,6500
 2017,2,,Chris Thompson,RB,RB,3800,5500
@@ -799,8 +799,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,2,,Odell Beckham,WR,WR,8000,8600
 2017,2,,Roger Lewis,WR,WR,3300,4500
 2017,2,,Sterling Shepard,WR,WR,4700,6000
-2017,3,LAR,Los Angeles Rams,DST,DST,3500,4900
-2017,3,SFO,San Francisco 49ers,DST,DST,2900,4400
+2017,3,LA,Los Angeles Rams,DST,DST,3500,4900
+2017,3,SF,San Francisco 49ers,DST,DST,2900,4400
 2017,3,,Jared Goff,QB,QB,5200,6800
 2017,3,,Brian Hoyer,QB,QB,4800,6200
 2017,3,,Todd Gurley,RB,RB,6800,7900
@@ -877,7 +877,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,3,,Keelan Cole,WR,WR,3000,4500
 2017,3,,Marqise Lee,WR,WR,4400,6000
 2017,3,CIN,Cincinnati Bengals,DST,DST,2500,4100
-2017,3,GNB,Green Bay Packers,DST,DST,3400,4800
+2017,3,GB,Green Bay Packers,DST,DST,3400,4800
 2017,3,,Andy Dalton,QB,QB,5100,6800
 2017,3,,Aaron Rodgers,QB,QB,7300,9300
 2017,3,,Giovani Bernard,RB,RB,3800,5500
@@ -959,7 +959,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,3,,Kaelin Clay,WR,WR,3000,4500
 2017,3,,Zay Jones,WR,WR,3100,4500
 2017,3,HOU,Houston Texans,DST,DST,2300,4000
-2017,3,NWE,New England Patriots,DST,DST,3800,4900
+2017,3,NE,New England Patriots,DST,DST,3800,4900
 2017,3,,Deshaun Watson,QB,QB,4700,7000
 2017,3,,Tom Brady,QB,QB,7700,9400
 2017,3,,D'Onta Foreman,RB,RB,4000,4700
@@ -984,7 +984,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,3,,Chris Hogan,WR,WR,6100,6400
 2017,3,,Danny Amendola,WR,WR,5400,6300
 2017,3,,Phillip Dorsett,WR,WR,4000,5200
-2017,3,KAN,Kansas City Chiefs,DST,DST,2900,4700
+2017,3,KC,Kansas City Chiefs,DST,DST,2900,4700
 2017,3,LAC,Los Angeles Chargers,DST,DST,2800,4200
 2017,3,,Alex Smith,QB,QB,5900,7400
 2017,3,,Philip Rivers,QB,QB,6400,7500
@@ -1038,7 +1038,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,3,,Jeremy Kerley,WR,WR,3600,4900
 2017,3,,Jermaine Kearse,WR,WR,4600,5800
 2017,3,,Robby Anderson,WR,WR,3400,5200
-2017,3,NOR,New Orleans Saints,DST,DST,2000,4100
+2017,3,NO,New Orleans Saints,DST,DST,2000,4100
 2017,3,CAR,Carolina Panthers,DST,DST,2600,4500
 2017,3,,Drew Brees,QB,QB,7200,8400
 2017,3,,Cam Newton,QB,QB,6600,8100
@@ -1088,7 +1088,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,3,,Mack Hollins,WR,WR,3000,4500
 2017,3,,Nelson Agholor,WR,WR,4200,5400
 2017,3,,Torrey Smith,WR,WR,3600,5300
-2017,3,OAK,Oakland Raiders,DST,DST,2500,4400
+2017,3,LV,Oakland Raiders,DST,DST,2500,4400
 2017,3,WAS,Washington Redskins,DST,DST,2400,4200
 2017,3,,Derek Carr,QB,QB,6800,8400
 2017,3,,Kirk Cousins,QB,QB,6100,7600
@@ -1165,7 +1165,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,3,,Eric Weems,WR,WR,3000,4500
 2017,3,,Rishard Matthews,WR,WR,4200,6200
 2017,3,,Taywan Taylor,WR,WR,3600,4500
-2017,3,TAM,Tampa Bay Buccaneers,DST,DST,3200,4600
+2017,3,TB,Tampa Bay Buccaneers,DST,DST,3200,4600
 2017,3,MIN,Minnesota Vikings,DST,DST,3300,4600
 2017,3,,Jameis Winston,QB,QB,6000,7400
 2017,3,,Case Keenum,QB,QB,4500,6000
@@ -1216,7 +1216,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,3,,JJ Nelson,WR,WR,5300,5700
 2017,3,,Larry Fitzgerald,WR,WR,6400,6500
 2017,4,CHI,Chicago Bears,DST,DST,2100,4000
-2017,4,GNB,Green Bay Packers,DST,DST,3600,4700
+2017,4,GB,Green Bay Packers,DST,DST,3600,4700
 2017,4,,Mike Glennon,QB,QB,4500,6300
 2017,4,,Aaron Rodgers,QB,QB,7600,9100
 2017,4,,Brett Hundley,QB,QB,4200,6000
@@ -1272,7 +1272,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,4,,Nick Williams,WR,WR,3000,4500
 2017,4,,Taylor Gabriel,WR,WR,4100,5500
 2017,4,CAR,Carolina Panthers,DST,DST,2300,4200
-2017,4,NWE,New England Patriots,DST,DST,3400,4700
+2017,4,NE,New England Patriots,DST,DST,3400,4700
 2017,4,,Cam Newton,QB,QB,5900,7300
 2017,4,,Tom Brady,QB,QB,8000,9500
 2017,4,,Cameron Artis-Payne,RB,RB,3000,4500
@@ -1398,7 +1398,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,4,,Jeremy Kerley,WR,WR,3700,4800
 2017,4,,Jermaine Kearse,WR,WR,4600,5600
 2017,4,,Robby Anderson,WR,WR,3800,5600
-2017,4,LAR,Los Angeles Rams,DST,DST,2800,4400
+2017,4,LA,Los Angeles Rams,DST,DST,2800,4400
 2017,4,DAL,Dallas Cowboys,DST,DST,2500,4500
 2017,4,,Jared Goff,QB,QB,5600,7200
 2017,4,,Dak Prescott,QB,QB,6200,7600
@@ -1426,7 +1426,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,4,,Noah Brown,WR,WR,3000,4500
 2017,4,,Ryan Switzer,WR,WR,3000,4500
 2017,4,,Terrance Williams,WR,WR,3600,4700
-2017,4,NOR,New Orleans Saints,DST,DST,2600,4300
+2017,4,NO,New Orleans Saints,DST,DST,2600,4300
 2017,4,MIA,Miami Dolphins,DST,DST,2400,4300
 2017,4,,Drew Brees,QB,QB,7200,8500
 2017,4,,Jay Cutler,QB,QB,5800,7300
@@ -1453,7 +1453,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,4,,Kenny Stills,WR,WR,4300,4800
 2017,4,,Leonte Carroo,WR,WR,3000,4500
 2017,4,NYG,New York Giants,DST,DST,2900,4300
-2017,4,TAM,Tampa Bay Buccaneers,DST,DST,3400,4800
+2017,4,TB,Tampa Bay Buccaneers,DST,DST,3400,4800
 2017,4,,Eli Manning,QB,QB,5700,7000
 2017,4,,Jameis Winston,QB,QB,5900,7300
 2017,4,,Paul Perkins,RB,RB,3500,5100
@@ -1479,7 +1479,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,4,,Chris Godwin,WR,WR,3000,4500
 2017,4,,DeSean Jackson,WR,WR,5200,6700
 2017,4,,Mike Evans,WR,WR,7400,7900
-2017,4,OAK,Oakland Raiders,DST,DST,2300,4200
+2017,4,LV,Oakland Raiders,DST,DST,2300,4200
 2017,4,DEN,Denver Broncos,DST,DST,3300,4800
 2017,4,,Derek Carr,QB,QB,5800,7900
 2017,4,,EJ Manuel,QB,QB,4000,6000
@@ -1560,7 +1560,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,4,,Jeremy Maclin,WR,WR,4500,6400
 2017,4,,Michael Campanaro,WR,WR,3000,4500
 2017,4,,Mike Wallace,WR,WR,3500,5200
-2017,4,SFO,San Francisco 49ers,DST,DST,2200,4300
+2017,4,SF,San Francisco 49ers,DST,DST,2200,4300
 2017,4,ARI,Arizona Cardinals,DST,DST,3200,4600
 2017,4,,Brian Hoyer,QB,QB,4800,6400
 2017,4,,Carson Palmer,QB,QB,6100,7400
@@ -1617,7 +1617,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,4,,DeAndre Hopkins,WR,WR,6400,7300
 2017,4,,Will Fuller,WR,WR,3800,4500
 2017,4,WAS,Washington Redskins,DST,DST,2500,4100
-2017,4,KAN,Kansas City Chiefs,DST,DST,3100,4800
+2017,4,KC,Kansas City Chiefs,DST,DST,3100,4800
 2017,4,,Kirk Cousins,QB,QB,6500,7500
 2017,4,,Alex Smith,QB,QB,6300,7600
 2017,4,,Chris Thompson,RB,RB,5200,5800
@@ -1668,7 +1668,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,5,,Nelson Agholor,WR,WR,3900,5100
 2017,5,,Torrey Smith,WR,WR,3600,5100
 2017,5,BAL,Baltimore Ravens,DST,DST,2900,4500
-2017,5,OAK,Oakland Raiders,DST,DST,2900,4300
+2017,5,LV,Oakland Raiders,DST,DST,2900,4300
 2017,5,,Joe Flacco,QB,QB,4700,7200
 2017,5,,EJ Manuel,QB,QB,4900,6200
 2017,5,,Alex Collins,RB,RB,4000,5700
@@ -1745,7 +1745,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,5,,Golden Tate,WR,WR,6300,6700
 2017,5,,Jared Abbrederis,WR,WR,3000,4500
 2017,5,,Marvin Jones,WR,WR,4100,5500
-2017,5,GNB,Green Bay Packers,DST,DST,2400,4500
+2017,5,GB,Green Bay Packers,DST,DST,2400,4500
 2017,5,DAL,Dallas Cowboys,DST,DST,2100,4400
 2017,5,,Aaron Rodgers,QB,QB,8100,9500
 2017,5,,Dak Prescott,QB,QB,6800,7700
@@ -1850,7 +1850,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,5,,Ricardo Louis,WR,WR,3700,4500
 2017,5,,Sammie Coates,WR,WR,3100,4500
 2017,5,SEA,Seattle Seahawks,DST,DST,3500,5100
-2017,5,LAR,Los Angeles Rams,DST,DST,2800,4800
+2017,5,LA,Los Angeles Rams,DST,DST,2800,4800
 2017,5,,Russell Wilson,QB,QB,7100,8000
 2017,5,,Jared Goff,QB,QB,5300,7000
 2017,5,,Eddie Lacy,RB,RB,3400,4600
@@ -1875,7 +1875,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,5,,Robert Woods,WR,WR,3700,5700
 2017,5,,Sammy Watkins,WR,WR,5000,6600
 2017,5,,Tavon Austin,WR,WR,3000,4600
-2017,5,SFO,San Francisco 49ers,DST,DST,2600,4200
+2017,5,SF,San Francisco 49ers,DST,DST,2600,4200
 2017,5,IND,Indianapolis Colts,DST,DST,2700,4400
 2017,5,,Brian Hoyer,QB,QB,4700,6500
 2017,5,,Jacoby Brissett,QB,QB,5600,7000
@@ -2002,7 +2002,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,6,,DeAndre Hopkins,WR,WR,8100,8000
 2017,6,,Braxton Miller,WR,WR,3000,4500
 2017,6,DET,Detroit Lions,DST,DST,2400,4500
-2017,6,NOR,New Orleans Saints,DST,DST,2700,4200
+2017,6,NO,New Orleans Saints,DST,DST,2700,4200
 2017,6,,Matthew Stafford,QB,QB,6500,8500
 2017,6,,Drew Brees,QB,QB,7200,8600
 2017,6,,Ameer Abdullah,RB,RB,4900,6400
@@ -2024,7 +2024,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,6,,Brandon Coleman,WR,WR,3300,5200
 2017,6,,Willie Snead,WR,WR,4700,5600
 2017,6,,Michael Thomas,WR,WR,7300,8500
-2017,6,GNB,Green Bay Packers,DST,DST,2800,4600
+2017,6,GB,Green Bay Packers,DST,DST,2800,4600
 2017,6,MIN,Minnesota Vikings,DST,DST,2900,4500
 2017,6,,Brett Hundley,QB,QB,4200,6000
 2017,6,,Aaron Rodgers,QB,QB,7300,9000
@@ -2053,7 +2053,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,6,,Stacy Coley,WR,WR,3000,4500
 2017,6,,Jarius Wright,WR,WR,3000,4500
 2017,6,LAC,Los Angeles Chargers,DST,DST,3100,4300
-2017,6,OAK,Oakland Raiders,DST,DST,2500,4400
+2017,6,LV,Oakland Raiders,DST,DST,2500,4400
 2017,6,,Philip Rivers,QB,QB,6600,7200
 2017,6,,Derek Carr,QB,QB,5900,7500
 2017,6,,Melvin Gordon,RB,RB,7800,8400
@@ -2077,7 +2077,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,6,,Seth Roberts,WR,WR,3600,4800
 2017,6,,Amari Cooper,WR,WR,5000,6400
 2017,6,,Johnny Holton,WR,WR,3000,4500
-2017,6,LAR,Los Angeles Rams,DST,DST,3200,4900
+2017,6,LA,Los Angeles Rams,DST,DST,3200,4900
 2017,6,JAX,Jacksonville Jaguars,DST,DST,3600,4900
 2017,6,,Jared Goff,QB,QB,5000,7500
 2017,6,,Blake Bortles,QB,QB,4600,7000
@@ -2130,7 +2130,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,6,,Taylor Gabriel,WR,WR,4600,5800
 2017,6,,Justin Hardy,WR,WR,3900,4500
 2017,6,,Andre Roberts,WR,WR,3500,4500
-2017,6,NWE,New England Patriots,DST,DST,3300,4600
+2017,6,NE,New England Patriots,DST,DST,3300,4600
 2017,6,NYJ,New York Jets,DST,DST,2100,4000
 2017,6,,Tom Brady,QB,QB,8300,9500
 2017,6,,Josh McCown,QB,QB,5200,6900
@@ -2183,7 +2183,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,6,,Bennie Fowler,WR,WR,3300,4500
 2017,6,,Isaiah McKenzie,WR,WR,3000,4500
 2017,6,PIT,Pittsburgh Steelers,DST,DST,2600,4600
-2017,6,KAN,Kansas City Chiefs,DST,DST,3200,4800
+2017,6,KC,Kansas City Chiefs,DST,DST,3200,4800
 2017,6,,Ben Roethlisberger,QB,QB,5700,7400
 2017,6,,Alex Smith,QB,QB,6400,7500
 2017,6,,Le'Veon Bell,RB,RB,9600,9000
@@ -2207,7 +2207,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,6,,Demarcus Robinson,WR,WR,3000,4500
 2017,6,,Tyreek Hill,WR,WR,6400,7500
 2017,6,,Jehu Chesson,WR,WR,3000,4500
-2017,6,SFO,San Francisco 49ers,DST,DST,2200,4000
+2017,6,SF,San Francisco 49ers,DST,DST,2200,4000
 2017,6,WAS,Washington Redskins,DST,DST,3400,4700
 2017,6,,C.J. Beathard,QB,QB,4200,6000
 2017,6,,Brian Hoyer,QB,QB,5100,6600
@@ -2234,7 +2234,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,6,,Terrelle Pryor,WR,WR,5700,6800
 2017,6,,Josh Doctson,WR,WR,3600,4800
 2017,6,,Brian Quick,WR,WR,3000,4500
-2017,6,TAM,Tampa Bay Buccaneers,DST,DST,2600,4400
+2017,6,TB,Tampa Bay Buccaneers,DST,DST,2600,4400
 2017,6,ARI,Arizona Cardinals,DST,DST,2800,4200
 2017,6,,Ryan Fitzpatrick,QB,QB,4400,6000
 2017,6,,Jameis Winston,QB,QB,6200,7800
@@ -2289,8 +2289,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,6,,Rishard Matthews,WR,WR,5400,5400
 2017,6,,Taywan Taylor,WR,WR,3300,4500
 2017,6,,Eric Weems,WR,WR,3000,4500
-2017,7,KAN,Kansas City Chiefs,DST,DST,2800,4800
-2017,7,OAK,Oakland Raiders,DST,DST,2500,4300
+2017,7,KC,Kansas City Chiefs,DST,DST,2800,4800
+2017,7,LV,Oakland Raiders,DST,DST,2500,4300
 2017,7,,Alex Smith,QB,QB,6400,7600
 2017,7,,Derek Carr,QB,QB,6000,7100
 2017,7,,Kareem Hunt,RB,RB,8800,9700
@@ -2317,7 +2317,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,7,,Cordarrelle Patterson,WR,WR,3000,4600
 2017,7,,Johnny Holton,WR,WR,3000,4500
 2017,7,ARI,Arizona Cardinals,DST,DST,2400,4400
-2017,7,LAR,Los Angeles Rams,DST,DST,2600,5100
+2017,7,LA,Los Angeles Rams,DST,DST,2600,5100
 2017,7,,Carson Palmer,QB,QB,6600,7000
 2017,7,,Drew Stanton,QB,QB,4000,6000
 2017,7,,Jared Goff,QB,QB,5800,7300
@@ -2345,7 +2345,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,7,,Pharoh Cooper,WR,WR,3000,4500
 2017,7,,Josh Reynolds,WR,WR,3000,4500
 2017,7,ATL,Atlanta Falcons,DST,DST,2100,4400
-2017,7,NWE,New England Patriots,DST,DST,2300,4400
+2017,7,NE,New England Patriots,DST,DST,2300,4400
 2017,7,,Matt Ryan,QB,QB,7500,8700
 2017,7,,Tom Brady,QB,QB,8000,9200
 2017,7,,Devonta Freeman,RB,RB,7300,7800
@@ -2447,7 +2447,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,7,,JuJu Smith-Schuster,WR,WR,3800,5300
 2017,7,,Eli Rogers,WR,WR,3000,4500
 2017,7,DAL,Dallas Cowboys,DST,DST,3500,5000
-2017,7,SFO,San Francisco 49ers,DST,DST,2100,4000
+2017,7,SF,San Francisco 49ers,DST,DST,2100,4000
 2017,7,,Dak Prescott,QB,QB,7300,8400
 2017,7,,Cooper Rush,QB,QB,4500,6000
 2017,7,,C.J. Beathard,QB,QB,4900,6300
@@ -2526,8 +2526,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,7,,Chester Rogers,WR,WR,3000,4500
 2017,7,,Quan Bray,WR,WR,3000,4500
 2017,7,,Kamar Aiken,WR,WR,3000,4500
-2017,7,NOR,New Orleans Saints,DST,DST,3000,4500
-2017,7,GNB,Green Bay Packers,DST,DST,2300,4200
+2017,7,NO,New Orleans Saints,DST,DST,3000,4500
+2017,7,GB,Green Bay Packers,DST,DST,2300,4200
 2017,7,,Drew Brees,QB,QB,7600,8300
 2017,7,,Brett Hundley,QB,QB,5100,6500
 2017,7,,Mark Ingram,RB,RB,6700,7100
@@ -2606,7 +2606,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,7,,Tanner McEvoy,WR,WR,3000,4500
 2017,7,,Roger Lewis,WR,WR,3800,5700
 2017,7,,Tavarres King,WR,WR,3300,4500
-2017,7,TAM,Tampa Bay Buccaneers,DST,DST,2700,4500
+2017,7,TB,Tampa Bay Buccaneers,DST,DST,2700,4500
 2017,7,BUF,Buffalo Bills,DST,DST,3400,4500
 2017,7,,Jameis Winston,QB,QB,6000,7600
 2017,7,,Tyrod Taylor,QB,QB,5100,7000
@@ -2742,7 +2742,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,8,,Jermaine Kearse,WR,WR,4800,6400
 2017,8,,Jeremy Kerley,WR,WR,3800,5300
 2017,8,CAR,Carolina Panthers,DST,DST,2800,4700
-2017,8,TAM,Tampa Bay Buccaneers,DST,DST,2600,4500
+2017,8,TB,Tampa Bay Buccaneers,DST,DST,2600,4500
 2017,8,,Cam Newton,QB,QB,6600,7800
 2017,8,,Jameis Winston,QB,QB,6100,7600
 2017,8,,Jonathan Stewart,RB,RB,3600,5200
@@ -2767,7 +2767,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,8,,Adam Humphries,WR,WR,3700,5000
 2017,8,,Chris Godwin,WR,WR,3000,4500
 2017,8,CHI,Chicago Bears,DST,DST,2500,4200
-2017,8,NOR,New Orleans Saints,DST,DST,3400,4800
+2017,8,NO,New Orleans Saints,DST,DST,3400,4800
 2017,8,,Mitch Trubisky,QB,QB,4600,6400
 2017,8,,Drew Brees,QB,QB,7000,8500
 2017,8,,Jordan Howard,RB,RB,6800,6900
@@ -2877,7 +2877,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,8,,A.J. Green,WR,WR,8600,8500
 2017,8,,John Ross,WR,WR,3200,4700
 2017,8,LAC,Los Angeles Chargers,DST,DST,2500,4000
-2017,8,NWE,New England Patriots,DST,DST,2400,4500
+2017,8,NE,New England Patriots,DST,DST,2400,4500
 2017,8,,Philip Rivers,QB,QB,6300,7500
 2017,8,,Tom Brady,QB,QB,7600,9400
 2017,8,,Melvin Gordon,RB,RB,8100,7900
@@ -2931,7 +2931,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,8,,Sammie Coates,WR,WR,3000,4500
 2017,8,,Bryce Treggs,WR,WR,3000,4500
 2017,8,,Kasen Williams,WR,WR,3000,4500
-2017,8,OAK,Oakland Raiders,DST,DST,2800,4400
+2017,8,LV,Oakland Raiders,DST,DST,2800,4400
 2017,8,BUF,Buffalo Bills,DST,DST,2900,4600
 2017,8,,Derek Carr,QB,QB,6500,7800
 2017,8,,Tyrod Taylor,QB,QB,5900,7600
@@ -2981,7 +2981,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,8,,Marvin Jones,WR,WR,5500,6100
 2017,8,,Golden Tate,WR,WR,6500,7400
 2017,8,,Jared Abbrederis,WR,WR,3000,4500
-2017,8,SFO,San Francisco 49ers,DST,DST,2100,4000
+2017,8,SF,San Francisco 49ers,DST,DST,2100,4000
 2017,8,PHI,Philadelphia Eagles,DST,DST,3800,5400
 2017,8,,C.J. Beathard,QB,QB,5100,6300
 2017,8,,Carson Wentz,QB,QB,7200,7900
@@ -3009,7 +3009,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,8,,Torrey Smith,WR,WR,3900,5200
 2017,8,,Marcus Johnson,WR,WR,3000,4500
 2017,8,DEN,Denver Broncos,DST,DST,3000,4700
-2017,8,KAN,Kansas City Chiefs,DST,DST,3500,4900
+2017,8,KC,Kansas City Chiefs,DST,DST,3500,4900
 2017,8,,Trevor Siemian,QB,QB,4800,6800
 2017,8,,Alex Smith,QB,QB,6200,7700
 2017,8,,C.J. Anderson,RB,RB,5700,6600
@@ -3063,7 +3063,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,9,,Jeremy Kerley,WR,WR,3700,5400
 2017,9,,ArDarius Stewart,WR,WR,3000,4500
 2017,9,ARI,Arizona Cardinals,DST,DST,3500,4900
-2017,9,SFO,San Francisco 49ers,DST,DST,3200,4400
+2017,9,SF,San Francisco 49ers,DST,DST,3200,4400
 2017,9,,Drew Stanton,QB,QB,4700,6400
 2017,9,,C.J. Beathard,QB,QB,4900,6200
 2017,9,,Adrian Peterson,RB,RB,5600,6800
@@ -3223,7 +3223,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,9,,Will Fuller,WR,WR,7000,7800
 2017,9,,Bruce Ellington,WR,WR,3000,4600
 2017,9,,Chris Thompson,WR,WR,3000,4500
-2017,9,KAN,Kansas City Chiefs,DST,DST,2500,4400
+2017,9,KC,Kansas City Chiefs,DST,DST,2500,4400
 2017,9,DAL,Dallas Cowboys,DST,DST,2300,4300
 2017,9,,Alex Smith,QB,QB,6500,7900
 2017,9,,Dak Prescott,QB,QB,6700,8200
@@ -3250,7 +3250,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,9,,Cole Beasley,WR,WR,4000,4800
 2017,9,,Brice Butler,WR,WR,3200,5000
 2017,9,,Ryan Switzer,WR,WR,3000,4500
-2017,9,LAR,Los Angeles Rams,DST,DST,3100,4800
+2017,9,LA,Los Angeles Rams,DST,DST,3100,4800
 2017,9,NYG,New York Giants,DST,DST,3000,4100
 2017,9,,Jared Goff,QB,QB,5500,7600
 2017,9,,Sean Mannion,QB,QB,4200,6000
@@ -3280,7 +3280,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,9,,Roger Lewis,WR,WR,3300,5300
 2017,9,,Ed Eagan,WR,WR,3000,4500
 2017,9,,Travis Rudolph,WR,WR,3200,4600
-2017,9,OAK,Oakland Raiders,DST,DST,3100,4600
+2017,9,LV,Oakland Raiders,DST,DST,3100,4600
 2017,9,MIA,Miami Dolphins,DST,DST,2500,4200
 2017,9,,Derek Carr,QB,QB,6400,7800
 2017,9,,Jay Cutler,QB,QB,4900,6700
@@ -3306,8 +3306,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,9,,Kenny Stills,WR,WR,4500,5500
 2017,9,,Jakeem Grant,WR,WR,3100,4500
 2017,9,,Leonte Carroo,WR,WR,3300,4500
-2017,9,TAM,Tampa Bay Buccaneers,DST,DST,2100,4200
-2017,9,NOR,New Orleans Saints,DST,DST,3400,4500
+2017,9,TB,Tampa Bay Buccaneers,DST,DST,2100,4200
+2017,9,NO,New Orleans Saints,DST,DST,3400,4500
 2017,9,,Ryan Fitzpatrick,QB,QB,4800,6000
 2017,9,,Jameis Winston,QB,QB,5800,7700
 2017,9,,Drew Brees,QB,QB,7000,8300
@@ -3362,7 +3362,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,9,,Tyler Lockett,WR,WR,4600,5500
 2017,9,,Amara Darboh,WR,WR,3000,4500
 2017,9,DET,Detroit Lions,DST,DST,3000,4500
-2017,9,GNB,Green Bay Packers,DST,DST,2800,4300
+2017,9,GB,Green Bay Packers,DST,DST,2800,4300
 2017,9,,Matthew Stafford,QB,QB,6100,7900
 2017,9,,Brett Hundley,QB,QB,5100,6300
 2017,9,,Ameer Abdullah,RB,RB,3900,6200
@@ -3498,7 +3498,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,10,,Justin Hardy,WR,WR,3000,4500
 2017,10,,Marvin Hall,WR,WR,3000,4800
 2017,10,,Andre Roberts,WR,WR,3000,4500
-2017,10,GNB,Green Bay Packers,DST,DST,3300,4500
+2017,10,GB,Green Bay Packers,DST,DST,3300,4500
 2017,10,CHI,Chicago Bears,DST,DST,3000,4300
 2017,10,,Brett Hundley,QB,QB,5000,6400
 2017,10,,Mitch Trubisky,QB,QB,4500,6500
@@ -3526,7 +3526,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,10,,Tre McBride,WR,WR,3100,4500
 2017,10,,Markus Wheaton,WR,WR,3000,4500
 2017,10,HOU,Houston Texans,DST,DST,2300,4500
-2017,10,LAR,Los Angeles Rams,DST,DST,3600,5400
+2017,10,LA,Los Angeles Rams,DST,DST,3600,5400
 2017,10,,Tom Savage,QB,QB,4500,6000
 2017,10,,Jared Goff,QB,QB,6700,8200
 2017,10,,Lamar Miller,RB,RB,5200,6700
@@ -3601,7 +3601,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,10,,Josh Doctson,WR,WR,4100,5400
 2017,10,,Ryan Grant,WR,WR,3800,4900
 2017,10,,Terrelle Pryor,WR,WR,3500,4900
-2017,10,NOR,New Orleans Saints,DST,DST,3400,4400
+2017,10,NO,New Orleans Saints,DST,DST,3400,4400
 2017,10,BUF,Buffalo Bills,DST,DST,2400,4200
 2017,10,,Drew Brees,QB,QB,6900,8500
 2017,10,,Chase Daniel,QB,QB,4600,6000
@@ -3632,7 +3632,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,10,,Deonte Thompson,WR,WR,3600,4800
 2017,10,,Brandon Tate,WR,WR,3000,4600
 2017,10,,Andre Holmes,WR,WR,3000,4500
-2017,10,NWE,New England Patriots,DST,DST,3400,4700
+2017,10,NE,New England Patriots,DST,DST,3400,4700
 2017,10,DEN,Denver Broncos,DST,DST,3000,4300
 2017,10,,Tom Brady,QB,QB,6700,8500
 2017,10,,Brian Hoyer,QB,QB,4900,6000
@@ -3663,7 +3663,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,10,,Bennie Fowler,WR,WR,3200,4500
 2017,10,,Isaiah McKenzie,WR,WR,3000,4500
 2017,10,NYG,New York Giants,DST,DST,3200,4400
-2017,10,SFO,San Francisco 49ers,DST,DST,2600,4300
+2017,10,SF,San Francisco 49ers,DST,DST,2600,4300
 2017,10,,Eli Manning,QB,QB,5100,6700
 2017,10,,C.J. Beathard,QB,QB,4800,6300
 2017,10,,Orleans Darkwa,RB,RB,4500,5300
@@ -3687,7 +3687,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,10,,Aldrick Robinson,WR,WR,3600,5000
 2017,10,,Victor Bolden,WR,WR,3000,4500
 2017,10,NYJ,New York Jets,DST,DST,2800,4600
-2017,10,TAM,Tampa Bay Buccaneers,DST,DST,2900,4400
+2017,10,TB,Tampa Bay Buccaneers,DST,DST,2900,4400
 2017,10,,Josh McCown,QB,QB,6100,7400
 2017,10,,Ryan Fitzpatrick,QB,QB,4900,6100
 2017,10,,Bilal Powell,RB,RB,4000,6000
@@ -3814,7 +3814,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,11,,Braxton Miller,WR,WR,3000,4500
 2017,11,,Chris Thompson,WR,WR,3000,4500
 2017,11,BAL,Baltimore Ravens,DST,DST,3400,4700
-2017,11,GNB,Green Bay Packers,DST,DST,2700,4500
+2017,11,GB,Green Bay Packers,DST,DST,2700,4500
 2017,11,,Joe Flacco,QB,QB,4900,6600
 2017,11,,Brett Hundley,QB,QB,4700,6300
 2017,11,,Alex Collins,RB,RB,3900,5500
@@ -3949,7 +3949,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,11,,Kenny Britt,WR,WR,3000,4800
 2017,11,,Rashard Higgins,WR,WR,3000,4600
 2017,11,,Sammie Coates,WR,WR,3000,4500
-2017,11,KAN,Kansas City Chiefs,DST,DST,3300,5100
+2017,11,KC,Kansas City Chiefs,DST,DST,3300,5100
 2017,11,NYG,New York Giants,DST,DST,2200,4100
 2017,11,,Alex Smith,QB,QB,6700,7900
 2017,11,,Eli Manning,QB,QB,5700,6500
@@ -3973,7 +3973,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,11,,Roger Lewis,WR,WR,3000,5000
 2017,11,,Tavarres King,WR,WR,3100,4500
 2017,11,,Travis Rudolph,WR,WR,3000,4600
-2017,11,LAR,Los Angeles Rams,DST,DST,2400,4800
+2017,11,LA,Los Angeles Rams,DST,DST,2400,4800
 2017,11,MIN,Minnesota Vikings,DST,DST,2800,4600
 2017,11,,Jared Goff,QB,QB,6500,7900
 2017,11,,Case Keenum,QB,QB,5100,7300
@@ -3997,8 +3997,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,11,,Jarius Wright,WR,WR,3000,4800
 2017,11,,Michael Floyd,WR,WR,3000,4500
 2017,11,,Laquon Treadwell,WR,WR,3000,4900
-2017,11,NWE,New England Patriots,DST,DST,2600,4500
-2017,11,OAK,Oakland Raiders,DST,DST,2100,4100
+2017,11,NE,New England Patriots,DST,DST,2600,4500
+2017,11,LV,Oakland Raiders,DST,DST,2100,4100
 2017,11,,Tom Brady,QB,QB,7400,8600
 2017,11,,Brian Hoyer,QB,QB,4900,6000
 2017,11,,Derek Carr,QB,QB,6400,8000
@@ -4055,7 +4055,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,11,,Noah Brown,WR,WR,3000,4500
 2017,11,,Cole Beasley,WR,WR,3600,5300
 2017,11,,Ryan Switzer,WR,WR,3000,4500
-2017,11,TAM,Tampa Bay Buccaneers,DST,DST,2900,4600
+2017,11,TB,Tampa Bay Buccaneers,DST,DST,2900,4600
 2017,11,MIA,Miami Dolphins,DST,DST,2800,4400
 2017,11,,Ryan Fitzpatrick,QB,QB,5300,6400
 2017,11,,Matt Moore,QB,QB,4700,6000
@@ -4082,7 +4082,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,11,,DeVante Parker,WR,WR,6500,6200
 2017,11,,Jakeem Grant,WR,WR,3000,4500
 2017,11,WAS,Washington Redskins,DST,DST,2000,4000
-2017,11,NOR,New Orleans Saints,DST,DST,3500,4500
+2017,11,NO,New Orleans Saints,DST,DST,3500,4500
 2017,11,,Kirk Cousins,QB,QB,6100,8200
 2017,11,,Drew Brees,QB,QB,6800,8100
 2017,11,,Samaje Perine,RB,RB,3800,5400
@@ -4208,7 +4208,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,12,,Ryan Grant,WR,WR,3700,5200
 2017,12,,Brian Quick,WR,WR,3000,4500
 2017,12,BUF,Buffalo Bills,DST,DST,2300,4100
-2017,12,KAN,Kansas City Chiefs,DST,DST,3700,5000
+2017,12,KC,Kansas City Chiefs,DST,DST,3700,5000
 2017,12,,Tyrod Taylor,QB,QB,5800,6900
 2017,12,,Joe Webb,QB,QB,4000,6000
 2017,12,,Alex Smith,QB,QB,6500,7600
@@ -4317,7 +4317,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,12,,Josh Malone,WR,WR,3000,4500
 2017,12,,Cody Core,WR,WR,3000,4500
 2017,12,DEN,Denver Broncos,DST,DST,3200,4400
-2017,12,OAK,Oakland Raiders,DST,DST,3000,4400
+2017,12,LV,Oakland Raiders,DST,DST,3000,4400
 2017,12,,Trevor Siemian,QB,QB,4400,6000
 2017,12,,Paxton Lynch,QB,QB,4400,6200
 2017,12,,Derek Carr,QB,QB,5600,7500
@@ -4343,7 +4343,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,12,,Seth Roberts,WR,WR,3000,4500
 2017,12,,Amari Cooper,WR,WR,5400,7000
 2017,12,,Michael Crabtree,WR,WR,5500,6900
-2017,12,GNB,Green Bay Packers,DST,DST,2300,4000
+2017,12,GB,Green Bay Packers,DST,DST,2300,4000
 2017,12,PIT,Pittsburgh Steelers,DST,DST,3900,4800
 2017,12,,Brett Hundley,QB,QB,4500,6200
 2017,12,,Ben Roethlisberger,QB,QB,6800,7900
@@ -4395,7 +4395,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,12,,Larry Fitzgerald,WR,WR,5600,7200
 2017,12,,Chad Williams,WR,WR,3000,4500
 2017,12,MIA,Miami Dolphins,DST,DST,2000,4000
-2017,12,NWE,New England Patriots,DST,DST,3400,4700
+2017,12,NE,New England Patriots,DST,DST,3400,4700
 2017,12,,Matt Moore,QB,QB,4800,6000
 2017,12,,Tom Brady,QB,QB,7700,9100
 2017,12,,Damien Williams,RB,RB,4300,5600
@@ -4420,8 +4420,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,12,,Brandin Cooks,WR,WR,7100,7600
 2017,12,,Phillip Dorsett,WR,WR,3800,5000
 2017,12,,Danny Amendola,WR,WR,5800,5700
-2017,12,NOR,New Orleans Saints,DST,DST,2500,4500
-2017,12,LAR,Los Angeles Rams,DST,DST,2600,4300
+2017,12,NO,New Orleans Saints,DST,DST,2500,4500
+2017,12,LA,Los Angeles Rams,DST,DST,2600,4300
 2017,12,,Drew Brees,QB,QB,6900,7800
 2017,12,,Jared Goff,QB,QB,6700,7600
 2017,12,,Alvin Kamara,RB,RB,7900,8100
@@ -4448,7 +4448,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,12,,Pharoh Cooper,WR,WR,3000,4500
 2017,12,,Mike Thomas,WR,WR,3000,4500
 2017,12,SEA,Seattle Seahawks,DST,DST,3800,5100
-2017,12,SFO,San Francisco 49ers,DST,DST,2200,4000
+2017,12,SF,San Francisco 49ers,DST,DST,2200,4000
 2017,12,,Russell Wilson,QB,QB,7000,8600
 2017,12,,C.J. Beathard,QB,QB,4600,6200
 2017,12,,Jimmy Garoppolo,QB,QB,5000,6500
@@ -4475,7 +4475,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,12,,Kendrick Bourne,WR,WR,3000,4500
 2017,12,,Louis Murphy,WR,WR,3000,4500
 2017,12,,Aldrick Robinson,WR,WR,3100,4600
-2017,12,TAM,Tampa Bay Buccaneers,DST,DST,2200,4300
+2017,12,TB,Tampa Bay Buccaneers,DST,DST,2200,4300
 2017,12,ATL,Atlanta Falcons,DST,DST,2900,4600
 2017,12,,Ryan Fitzpatrick,QB,QB,5500,6500
 2017,12,,Matt Ryan,QB,QB,6400,7600
@@ -4575,7 +4575,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,13,,Noah Brown,WR,WR,3000,4500
 2017,13,,Ryan Switzer,WR,WR,3000,4500
 2017,13,CAR,Carolina Panthers,DST,DST,2300,4200
-2017,13,NOR,New Orleans Saints,DST,DST,2800,4600
+2017,13,NO,New Orleans Saints,DST,DST,2800,4600
 2017,13,,Cam Newton,QB,QB,6800,8100
 2017,13,,Drew Brees,QB,QB,6500,8100
 2017,13,,Jonathan Stewart,RB,RB,3600,5200
@@ -4731,7 +4731,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,13,,Dede Westbrook,WR,WR,4100,4700
 2017,13,,Keelan Cole,WR,WR,3400,4500
 2017,13,,Jaydon Mickens,WR,WR,3000,4500
-2017,13,KAN,Kansas City Chiefs,DST,DST,3200,4600
+2017,13,KC,Kansas City Chiefs,DST,DST,3200,4600
 2017,13,NYJ,New York Jets,DST,DST,2500,4400
 2017,13,,Alex Smith,QB,QB,5900,7500
 2017,13,,Josh McCown,QB,QB,5500,7700
@@ -4755,7 +4755,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,13,,ArDarius Stewart,WR,WR,3000,4500
 2017,13,,Jermaine Kearse,WR,WR,4300,5800
 2017,13,,Chad Hansen,WR,WR,3000,4500
-2017,13,LAR,Los Angeles Rams,DST,DST,3600,5000
+2017,13,LA,Los Angeles Rams,DST,DST,3600,5000
 2017,13,ARI,Arizona Cardinals,DST,DST,2200,4300
 2017,13,,Jared Goff,QB,QB,6700,7900
 2017,13,,Blaine Gabbert,QB,QB,4700,6400
@@ -4807,7 +4807,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,13,,Marvin Hall,WR,WR,3000,4500
 2017,13,,Andre Roberts,WR,WR,3000,4500
 2017,13,,Justin Hardy,WR,WR,3000,4500
-2017,13,NWE,New England Patriots,DST,DST,3300,4600
+2017,13,NE,New England Patriots,DST,DST,3300,4600
 2017,13,BUF,Buffalo Bills,DST,DST,2000,4000
 2017,13,,Tom Brady,QB,QB,7800,9300
 2017,13,,Brian Hoyer,QB,QB,4900,6000
@@ -4837,7 +4837,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,13,,Andre Holmes,WR,WR,3000,4500
 2017,13,,Brandon Tate,WR,WR,3000,4700
 2017,13,NYG,New York Giants,DST,DST,2500,4200
-2017,13,OAK,Oakland Raiders,DST,DST,3100,4600
+2017,13,LV,Oakland Raiders,DST,DST,3100,4600
 2017,13,,Geno Smith,QB,QB,4500,6000
 2017,13,,Derek Carr,QB,QB,6100,7600
 2017,13,,Orleans Darkwa,RB,RB,4600,6200
@@ -4888,7 +4888,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,13,,Paul Richardson,WR,WR,4600,6000
 2017,13,,Tanner McEvoy,WR,WR,3000,4500
 2017,13,,Amara Darboh,WR,WR,3000,4500
-2017,13,SFO,San Francisco 49ers,DST,DST,2600,4400
+2017,13,SF,San Francisco 49ers,DST,DST,2600,4400
 2017,13,CHI,Chicago Bears,DST,DST,3500,4600
 2017,13,,Jimmy Garoppolo,QB,QB,5100,6300
 2017,13,,Mitch Trubisky,QB,QB,4500,6500
@@ -4916,8 +4916,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,13,,Dontrelle Inman,WR,WR,3900,4900
 2017,13,,Josh Bellamy,WR,WR,3000,4500
 2017,13,,Markus Wheaton,WR,WR,3000,4500
-2017,13,TAM,Tampa Bay Buccaneers,DST,DST,3100,4600
-2017,13,GNB,Green Bay Packers,DST,DST,2800,4400
+2017,13,TB,Tampa Bay Buccaneers,DST,DST,3100,4600
+2017,13,GB,Green Bay Packers,DST,DST,2800,4400
 2017,13,,Jameis Winston,QB,QB,5600,7300
 2017,13,,Brett Hundley,QB,QB,5100,6400
 2017,13,,Peyton Barber,RB,RB,3900,5600
@@ -4972,7 +4972,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,13,,Josh Malone,WR,WR,3000,4500
 2017,13,,Alex Erickson,WR,WR,3000,4500
 2017,13,,Cody Core,WR,WR,3000,4500
-2017,14,NOR,New Orleans Saints,DST,DST,2400,4500
+2017,14,NO,New Orleans Saints,DST,DST,2400,4500
 2017,14,ATL,Atlanta Falcons,DST,DST,2200,4300
 2017,14,,Drew Brees,QB,QB,6700,8000
 2017,14,,Matt Ryan,QB,QB,6400,7900
@@ -5080,7 +5080,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,14,,Sterling Shepard,WR,WR,5300,6400
 2017,14,,Kalif Raymond,WR,WR,3000,4500
 2017,14,DET,Detroit Lions,DST,DST,2700,4700
-2017,14,TAM,Tampa Bay Buccaneers,DST,DST,2800,4500
+2017,14,TB,Tampa Bay Buccaneers,DST,DST,2800,4500
 2017,14,,Matthew Stafford,QB,QB,6300,8000
 2017,14,,Jameis Winston,QB,QB,5900,7200
 2017,14,,Theo Riddick,RB,RB,4500,5600
@@ -5105,7 +5105,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,14,,Mike Evans,WR,WR,6900,7300
 2017,14,,Adam Humphries,WR,WR,3100,4800
 2017,14,,Freddie Martino,WR,WR,3000,4500
-2017,14,GNB,Green Bay Packers,DST,DST,3700,5000
+2017,14,GB,Green Bay Packers,DST,DST,3700,5000
 2017,14,CLE,Cleveland Browns,DST,DST,2600,4000
 2017,14,,Brett Hundley,QB,QB,5700,6900
 2017,14,,DeShone Kizer,QB,QB,4900,6400
@@ -5211,8 +5211,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,14,,Emmanuel Sanders,WR,WR,4700,6100
 2017,14,,Jordan Taylor,WR,WR,3000,4500
 2017,14,,Bennie Fowler,WR,WR,3300,4500
-2017,14,OAK,Oakland Raiders,DST,DST,2200,4200
-2017,14,KAN,Kansas City Chiefs,DST,DST,2400,4800
+2017,14,LV,Oakland Raiders,DST,DST,2200,4200
+2017,14,KC,Kansas City Chiefs,DST,DST,2400,4800
 2017,14,,Derek Carr,QB,QB,6400,7700
 2017,14,,Alex Smith,QB,QB,6500,8200
 2017,14,,Marshawn Lynch,RB,RB,5700,6400
@@ -5239,7 +5239,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,14,,Demarcus Robinson,WR,WR,3000,4700
 2017,14,,Jehu Chesson,WR,WR,3000,4500
 2017,14,PHI,Philadelphia Eagles,DST,DST,2600,4600
-2017,14,LAR,Los Angeles Rams,DST,DST,2500,4400
+2017,14,LA,Los Angeles Rams,DST,DST,2500,4400
 2017,14,,Carson Wentz,QB,QB,7100,8600
 2017,14,,Nick Foles,QB,QB,4400,6000
 2017,14,,Jared Goff,QB,QB,6600,7700
@@ -5291,7 +5291,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,14,,Dede Westbrook,WR,WR,4200,5200
 2017,14,,Marqise Lee,WR,WR,5500,6600
 2017,14,,Jaydon Mickens,WR,WR,3000,4500
-2017,14,SFO,San Francisco 49ers,DST,DST,3000,4500
+2017,14,SF,San Francisco 49ers,DST,DST,3000,4500
 2017,14,HOU,Houston Texans,DST,DST,3200,4800
 2017,14,,Jimmy Garoppolo,QB,QB,5500,7000
 2017,14,,T.J. Yates,QB,QB,4300,6000
@@ -5368,7 +5368,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,14,,Tyrell Williams,WR,WR,3700,4900
 2017,14,,Keenan Allen,WR,WR,8300,8400
 2017,14,,Mike Williams,WR,WR,3000,4900
-2017,14,NWE,New England Patriots,DST,DST,3300,5100
+2017,14,NE,New England Patriots,DST,DST,3300,5100
 2017,14,MIA,Miami Dolphins,DST,DST,2000,4000
 2017,14,,Tom Brady,QB,QB,7500,9500
 2017,14,,Jay Cutler,QB,QB,4800,6600
@@ -5445,7 +5445,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,15,,Golden Tate,WR,WR,6500,6800
 2017,15,,Kenny Golladay,WR,WR,3400,5000
 2017,15,LAC,Los Angeles Chargers,DST,DST,3100,4600
-2017,15,KAN,Kansas City Chiefs,DST,DST,2400,4400
+2017,15,KC,Kansas City Chiefs,DST,DST,2400,4400
 2017,15,,Philip Rivers,QB,QB,7200,8300
 2017,15,,Kellen Clemens,QB,QB,4700,6000
 2017,15,,Alex Smith,QB,QB,5900,7700
@@ -5552,7 +5552,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,15,,Michael Floyd,WR,WR,3000,4500
 2017,15,,Laquon Treadwell,WR,WR,3000,4600
 2017,15,DAL,Dallas Cowboys,DST,DST,2800,4300
-2017,15,OAK,Oakland Raiders,DST,DST,2500,4200
+2017,15,LV,Oakland Raiders,DST,DST,2500,4200
 2017,15,,Dak Prescott,QB,QB,6400,7800
 2017,15,,Derek Carr,QB,QB,5700,7200
 2017,15,,Alfred Morris,RB,RB,5700,6500
@@ -5577,7 +5577,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,15,,Cordarrelle Patterson,WR,WR,3700,4500
 2017,15,,Johnny Holton,WR,WR,3400,4500
 2017,15,,Isaac Whitney,WR,WR,3000,4500
-2017,15,GNB,Green Bay Packers,DST,DST,2300,4100
+2017,15,GB,Green Bay Packers,DST,DST,2300,4100
 2017,15,CAR,Carolina Panthers,DST,DST,2900,4400
 2017,15,,Aaron Rodgers,QB,QB,6800,8500
 2017,15,,Cam Newton,QB,QB,6400,7900
@@ -5629,7 +5629,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,15,,Jaydon Mickens,WR,WR,3000,4500
 2017,15,,Dede Westbrook,WR,WR,5100,5700
 2017,15,,Marqise Lee,WR,WR,5800,6800
-2017,15,LAR,Los Angeles Rams,DST,DST,2800,4400
+2017,15,LA,Los Angeles Rams,DST,DST,2800,4400
 2017,15,SEA,Seattle Seahawks,DST,DST,3100,4500
 2017,15,,Jared Goff,QB,QB,6200,7600
 2017,15,,Sean Mannion,QB,QB,4500,6000
@@ -5682,7 +5682,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,15,,Deonte Thompson,WR,WR,3100,4600
 2017,15,,Zay Jones,WR,WR,3900,4500
 2017,15,,Andre Holmes,WR,WR,3000,4500
-2017,15,NWE,New England Patriots,DST,DST,2500,4400
+2017,15,NE,New England Patriots,DST,DST,2500,4400
 2017,15,PIT,Pittsburgh Steelers,DST,DST,2100,4200
 2017,15,,Tom Brady,QB,QB,7600,8800
 2017,15,,Ben Roethlisberger,QB,QB,6700,8000
@@ -5708,7 +5708,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,15,,Eli Rogers,WR,WR,3200,4500
 2017,15,,Darrius Heyward-Bey,WR,WR,3000,4600
 2017,15,NYJ,New York Jets,DST,DST,2000,4000
-2017,15,NOR,New Orleans Saints,DST,DST,3900,4600
+2017,15,NO,New Orleans Saints,DST,DST,3900,4600
 2017,15,,Bryce Petty,QB,QB,4600,6000
 2017,15,,Drew Brees,QB,QB,6500,8400
 2017,15,,Bilal Powell,RB,RB,4000,5600
@@ -5757,7 +5757,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,15,,Tavarres King,WR,WR,3000,4600
 2017,15,,Kalif Raymond,WR,WR,3000,4500
 2017,15,TEN,Tennessee Titans,DST,DST,3000,4700
-2017,15,SFO,San Francisco 49ers,DST,DST,2600,4300
+2017,15,SF,San Francisco 49ers,DST,DST,2600,4300
 2017,15,,Marcus Mariota,QB,QB,5900,7600
 2017,15,,Jimmy Garoppolo,QB,QB,6300,7300
 2017,15,,DeMarco Murray,RB,RB,4700,6000
@@ -5784,7 +5784,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,15,,Aldrick Robinson,WR,WR,3500,4600
 2017,15,,Louis Murphy,WR,WR,3000,4500
 2017,15,ATL,Atlanta Falcons,DST,DST,2700,4600
-2017,15,TAM,Tampa Bay Buccaneers,DST,DST,2400,4100
+2017,15,TB,Tampa Bay Buccaneers,DST,DST,2400,4100
 2017,15,,Matt Ryan,QB,QB,6300,7600
 2017,15,,Jameis Winston,QB,QB,5900,7000
 2017,15,,Devonta Freeman,RB,RB,6200,7000
@@ -5836,7 +5836,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,16,,Chris Moore,WR,WR,3000,4600
 2017,16,,Breshad Perriman,WR,WR,3000,4600
 2017,16,MIN,Minnesota Vikings,DST,DST,3000,4600
-2017,16,GNB,Green Bay Packers,DST,DST,2400,4500
+2017,16,GB,Green Bay Packers,DST,DST,2400,4500
 2017,16,,Case Keenum,QB,QB,6700,7900
 2017,16,,Brett Hundley,QB,QB,5000,6000
 2017,16,,Latavius Murray,RB,RB,5400,7100
@@ -5861,7 +5861,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,16,,Trevor Davis,WR,WR,3000,4500
 2017,16,,Randall Cobb,WR,WR,6100,6100
 2017,16,ATL,Atlanta Falcons,DST,DST,2100,4100
-2017,16,NOR,New Orleans Saints,DST,DST,2800,4500
+2017,16,NO,New Orleans Saints,DST,DST,2800,4500
 2017,16,,Matt Ryan,QB,QB,6300,7700
 2017,16,,Drew Brees,QB,QB,6500,8400
 2017,16,,Devonta Freeman,RB,RB,6500,7000
@@ -5887,7 +5887,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,16,,Tommylee Lewis,WR,WR,3000,4600
 2017,16,,Brandon Coleman,WR,WR,3000,4700
 2017,16,BUF,Buffalo Bills,DST,DST,2000,4100
-2017,16,NWE,New England Patriots,DST,DST,3000,4600
+2017,16,NE,New England Patriots,DST,DST,3000,4600
 2017,16,,Tyrod Taylor,QB,QB,5500,7500
 2017,16,,Joe Webb,QB,QB,4500,6000
 2017,16,,Tom Brady,QB,QB,6900,8600
@@ -5995,7 +5995,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,16,,Josh Malone,WR,WR,3000,4500
 2017,16,,Alex Erickson,WR,WR,3000,4500
 2017,16,JAX,Jacksonville Jaguars,DST,DST,3900,5600
-2017,16,SFO,San Francisco 49ers,DST,DST,2300,4200
+2017,16,SF,San Francisco 49ers,DST,DST,2300,4200
 2017,16,,Blake Bortles,QB,QB,6500,7600
 2017,16,,Jimmy Garoppolo,QB,QB,5300,7000
 2017,16,,Leonard Fournette,RB,RB,7500,8100
@@ -6046,7 +6046,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,16,,Jermaine Kearse,WR,WR,3900,6000
 2017,16,,Chad Hansen,WR,WR,3000,4500
 2017,16,,ArDarius Stewart,WR,WR,3000,4500
-2017,16,LAR,Los Angeles Rams,DST,DST,3600,4600
+2017,16,LA,Los Angeles Rams,DST,DST,3600,4600
 2017,16,TEN,Tennessee Titans,DST,DST,2200,4200
 2017,16,,Jared Goff,QB,QB,6100,7700
 2017,16,,Marcus Mariota,QB,QB,5300,7500
@@ -6075,7 +6075,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,16,,Taywan Taylor,WR,WR,3000,4600
 2017,16,,Eric Weems,WR,WR,3000,4500
 2017,16,MIA,Miami Dolphins,DST,DST,2200,4100
-2017,16,KAN,Kansas City Chiefs,DST,DST,3300,4500
+2017,16,KC,Kansas City Chiefs,DST,DST,3300,4500
 2017,16,,Jay Cutler,QB,QB,4800,6700
 2017,16,,Alex Smith,QB,QB,6600,7800
 2017,16,,Kenyan Drake,RB,RB,7100,7100
@@ -6151,7 +6151,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,16,,Cole Beasley,WR,WR,3400,4900
 2017,16,,Noah Brown,WR,WR,3000,4500
 2017,16,,Ryan Switzer,WR,WR,3000,4500
-2017,16,TAM,Tampa Bay Buccaneers,DST,DST,2300,4000
+2017,16,TB,Tampa Bay Buccaneers,DST,DST,2300,4000
 2017,16,CAR,Carolina Panthers,DST,DST,3100,4800
 2017,16,,Jameis Winston,QB,QB,5700,7100
 2017,16,,Cam Newton,QB,QB,6800,8300
@@ -6178,7 +6178,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,16,,Damiere Byrd,WR,WR,3500,4900
 2017,16,,Kaelin Clay,WR,WR,3000,4500
 2017,16,,Devin Funchess,WR,WR,6600,7000
-2017,16,OAK,Oakland Raiders,DST,DST,2400,4200
+2017,16,LV,Oakland Raiders,DST,DST,2400,4200
 2017,16,PHI,Philadelphia Eagles,DST,DST,3000,4800
 2017,16,,Derek Carr,QB,QB,5500,7300
 2017,16,,Nick Foles,QB,QB,6300,7300
@@ -6409,7 +6409,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,17,,Shelton Gibson,WR,WR,3000,4500
 2017,17,,Alshon Jeffery,WR,WR,6000,7500
 2017,17,,Torrey Smith,WR,WR,3100,5400
-2017,17,GNB,Green Bay Packers,DST,DST,2400,4300
+2017,17,GB,Green Bay Packers,DST,DST,2400,4300
 2017,17,DET,Detroit Lions,DST,DST,3700,4700
 2017,17,,Brett Hundley,QB,QB,4800,6000
 2017,17,,Joe Callahan,QB,QB,4400,6000
@@ -6480,7 +6480,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,17,,Rishard Matthews,WR,WR,4100,5500
 2017,17,,Corey Davis,WR,WR,3600,5500
 2017,17,,Eric Weems,WR,WR,3000,4500
-2017,17,KAN,Kansas City Chiefs,DST,DST,3300,4700
+2017,17,KC,Kansas City Chiefs,DST,DST,3300,4700
 2017,17,DEN,Denver Broncos,DST,DST,2900,4500
 2017,17,,Tyler Bray,QB,QB,4000,6000
 2017,17,,Paxton Lynch,QB,QB,4500,6000
@@ -6505,8 +6505,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,17,,Demaryius Thomas,WR,WR,5500,6800
 2017,17,,Bennie Fowler,WR,WR,3200,4500
 2017,17,,Isaiah McKenzie,WR,WR,3000,4500
-2017,17,NOR,New Orleans Saints,DST,DST,3300,4600
-2017,17,TAM,Tampa Bay Buccaneers,DST,DST,2100,4000
+2017,17,NO,New Orleans Saints,DST,DST,3300,4600
+2017,17,TB,Tampa Bay Buccaneers,DST,DST,2100,4000
 2017,17,,Drew Brees,QB,QB,6500,8200
 2017,17,,Jameis Winston,QB,QB,5800,7200
 2017,17,,Alvin Kamara,RB,RB,7900,8800
@@ -6532,7 +6532,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,17,,Mike Evans,WR,WR,7200,6900
 2017,17,,Freddie Martino,WR,WR,3000,4500
 2017,17,NYJ,New York Jets,DST,DST,2000,4000
-2017,17,NWE,New England Patriots,DST,DST,3500,5100
+2017,17,NE,New England Patriots,DST,DST,3500,5100
 2017,17,,Bryce Petty,QB,QB,4300,6400
 2017,17,,Tom Brady,QB,QB,6800,8500
 2017,17,,Brian Hoyer,QB,QB,4900,6000
@@ -6555,7 +6555,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,17,,Phillip Dorsett,WR,WR,3400,4500
 2017,17,,Kenny Britt,WR,WR,3000,4600
 2017,17,,Matt Slater,WR,WR,3000,4500
-2017,17,OAK,Oakland Raiders,DST,DST,2200,4100
+2017,17,LV,Oakland Raiders,DST,DST,2200,4100
 2017,17,LAC,Los Angeles Chargers,DST,DST,3600,4900
 2017,17,,Derek Carr,QB,QB,5100,7100
 2017,17,,Philip Rivers,QB,QB,6600,8300
@@ -6582,8 +6582,8 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,17,,Keenan Allen,WR,WR,7800,8600
 2017,17,,Tyrell Williams,WR,WR,4300,5200
 2017,17,,Mike Williams,WR,WR,3300,4800
-2017,17,SFO,San Francisco 49ers,DST,DST,2100,4000
-2017,17,LAR,Los Angeles Rams,DST,DST,3000,4700
+2017,17,SF,San Francisco 49ers,DST,DST,2100,4000
+2017,17,LA,Los Angeles Rams,DST,DST,3000,4700
 2017,17,,Jimmy Garoppolo,QB,QB,6700,7700
 2017,17,,Sean Mannion,QB,QB,4500,6000
 2017,17,,Carlos Hyde,RB,RB,4900,6900
@@ -6631,7 +6631,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,17,,Hunter Sharp,WR,WR,3000,4500
 2017,17,,Kalif Raymond,WR,WR,3000,4500
 2017,18,ATL,Atlanta Falcons,DST,DST,3500,4300
-2017,18,LAR,Los Angeles Rams,DST,DST,2700,4700
+2017,18,LA,Los Angeles Rams,DST,DST,2700,4700
 2017,18,,Matt Ryan,QB,QB,6100,7500
 2017,18,,Jared Goff,QB,QB,6700,8500
 2017,18,,Devonta Freeman,RB,RB,6300,7000
@@ -6655,7 +6655,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,18,,Sammy Watkins,WR,WR,5100,6700
 2017,18,,Pharoh Cooper,WR,WR,3000,4500
 2017,18,TEN,Tennessee Titans,DST,DST,2000,4400
-2017,18,KAN,Kansas City Chiefs,DST,DST,3400,4800
+2017,18,KC,Kansas City Chiefs,DST,DST,3400,4800
 2017,18,,Marcus Mariota,QB,QB,5500,7200
 2017,18,,Derrick Henry,RB,RB,6000,6500
 2017,18,,David Fluellen,RB,RB,3000,4500
@@ -6703,7 +6703,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,18,,Allen Hurns,WR,WR,4000,5400
 2017,18,,Keelan Cole,WR,WR,4200,5800
 2017,18,CAR,Carolina Panthers,DST,DST,2100,4200
-2017,18,NOR,New Orleans Saints,DST,DST,2800,4600
+2017,18,NO,New Orleans Saints,DST,DST,2800,4600
 2017,18,,Cam Newton,QB,QB,6500,8300
 2017,18,,Derek Anderson,QB,QB,5100,6000
 2017,18,,Drew Brees,QB,QB,6300,8100
@@ -6751,7 +6751,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,19,,Torrey Smith,WR,WR,3000,5400
 2017,19,,Mack Hollins,WR,WR,3000,4500
 2017,19,TEN,Tennessee Titans,DST,DST,2000,4400
-2017,19,NWE,New England Patriots,DST,DST,3500,5200
+2017,19,NE,New England Patriots,DST,DST,3500,5200
 2017,19,,Marcus Mariota,QB,QB,5900,7500
 2017,19,,Tom Brady,QB,QB,7700,9000
 2017,19,,Brian Hoyer,QB,QB,4600,6000
@@ -6800,7 +6800,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,19,,Eli Rogers,WR,WR,3000,5400
 2017,19,,JuJu Smith-Schuster,WR,WR,6000,7300
 2017,19,,Darrius Heyward-Bey,WR,WR,3000,4900
-2017,19,NOR,New Orleans Saints,DST,DST,2800,4600
+2017,19,NO,New Orleans Saints,DST,DST,2800,4600
 2017,19,MIN,Minnesota Vikings,DST,DST,3800,4900
 2017,19,,Drew Brees,QB,QB,6300,8100
 2017,19,,Case Keenum,QB,QB,6600,8000
@@ -6821,7 +6821,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2017,19,,Jarius Wright,WR,WR,3000,4900
 2017,19,,Michael Floyd,WR,WR,3000,4500
 2017,20,JAX,Jacksonville Jaguars,DST,DST,2800,4400
-2017,20,NWE,New England Patriots,DST,DST,3500,5200
+2017,20,NE,New England Patriots,DST,DST,3500,5200
 2017,20,,Blake Bortles,QB,QB,5000,7600
 2017,20,,Tom Brady,QB,QB,7700,9000
 2017,20,,Leonard Fournette,RB,RB,7200,8500

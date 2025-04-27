@@ -422,7 +422,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,1,daesean-hamilton,DaeSean Hamilton,WR,WR,4400,5600
 2019,1,tim-patrick,Tim Patrick,WR,WR,3200,4500
 2019,1,diontae-spencer,Diontae Spencer,WR,WR,3000,4500
-2019,1,OAK,Oakland Raiders,DST,DST,2200,3600
+2019,1,LV,Oakland Raiders,DST,DST,2200,3600
 2019,1,derek-carr,Derek Carr,QB,QB,5400,6600
 2019,1,deandre-washington,DeAndre Washington,RB,RB,3200,4500
 2019,1,jalen-richard,Jalen Richard,RB,RB,3500,5100
@@ -712,7 +712,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,2,demarcus-robinson,Demarcus Robinson,WR,WR,3500,5200
 2019,2,de-anthony-thomas,De'Anthony Thomas,WR,WR,3200,4500
 2019,2,sammy-watkins,Sammy Watkins,WR,WR,7200,7400
-2019,2,OAK,Oakland Raiders,DST,DST,2000,2500
+2019,2,LV,Oakland Raiders,DST,DST,2000,2500
 2019,2,derek-carr,Derek Carr,QB,QB,5100,6600
 2019,2,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,2,josh-jacobs,Josh Jacobs,RB,RB,4700,6500
@@ -1062,7 +1062,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,3,zay-jones,Zay Jones,WR,WR,3300,4700
 2019,3,isaiah-mckenzie,Isaiah McKenzie,WR,WR,3400,4700
 2019,3,andre-roberts,Andre Roberts,WR,WR,3000,4500
-2019,3,OAK,Oakland Raiders,DST,DST,2700,3300
+2019,3,LV,Oakland Raiders,DST,DST,2700,3300
 2019,3,derek-carr,Derek Carr,QB,QB,4900,6700
 2019,3,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,3,josh-jacobs,Josh Jacobs,RB,RB,5300,6500
@@ -1352,7 +1352,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,4,cody-latimer,Cody Latimer,WR,WR,3600,5000
 2019,4,sterling-shepard,Sterling Shepard,WR,WR,5800,6500
 2019,4,darius-slayton,Darius Slayton,WR,WR,3200,4800
-2019,4,OAK,Oakland Raiders,DST,DST,2700,3400
+2019,4,LV,Oakland Raiders,DST,DST,2700,3400
 2019,4,derek-carr,Derek Carr,QB,QB,5300,6800
 2019,4,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,4,josh-jacobs,Josh Jacobs,RB,RB,5100,6000
@@ -1757,7 +1757,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,5,cordarrelle-patterson,Cordarrelle Patterson,WR,WR,3700,4500
 2019,5,allen-robinson,Allen Robinson,WR,WR,5600,6900
 2019,5,javon-wims,Javon Wims,WR,WR,3500,4500
-2019,5,OAK,Oakland Raiders,DST,DST,2700,4100
+2019,5,LV,Oakland Raiders,DST,DST,2700,4100
 2019,5,derek-carr,Derek Carr,QB,QB,5000,6600
 2019,5,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,5,josh-jacobs,Josh Jacobs,RB,RB,4500,6000
@@ -2583,7 +2583,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,7,stanley-morgan,Stanley Morgan,WR,WR,3100,4500
 2019,7,auden-tate,Auden Tate,WR,WR,4500,5900
 2019,7,damion-willis,Damion Willis,WR,WR,3000,4500
-2019,7,OAK,Oakland Raiders,DST,DST,1900,3200
+2019,7,LV,Oakland Raiders,DST,DST,1900,3200
 2019,7,derek-carr,Derek Carr,QB,QB,5000,6500
 2019,7,mike-glennon,Mike Glennon,QB,QB,4600,6000
 2019,7,alec-ingold,Alec Ingold,RB,RB,3100,4500
@@ -3116,7 +3116,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,8,gunner-olszewski,Gunner Olszewski,WR,WR,3200,5100
 2019,8,mohamed-sanu,Mohamed Sanu,WR,WR,4000,5100
 2019,8,matthew-slater,Matthew Slater,WR,WR,3000,5000
-2019,8,OAK,Oakland Raiders,DST,DST,1500,3100
+2019,8,LV,Oakland Raiders,DST,DST,1500,3100
 2019,8,derek-carr,Derek Carr,QB,QB,5000,6900
 2019,8,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,8,josh-jacobs,Josh Jacobs,RB,RB,5800,7200
@@ -3423,7 +3423,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,9,kenny-golladay,Kenny Golladay,WR,WR,7700,7600
 2019,9,marvin-hall,Marvin Hall,WR,WR,3200,4900
 2019,9,marvin-jones,Marvin Jones,WR,WR,6000,5700
-2019,9,OAK,Oakland Raiders,DST,DST,2300,3500
+2019,9,LV,Oakland Raiders,DST,DST,2300,3500
 2019,9,derek-carr,Derek Carr,QB,QB,5500,7300
 2019,9,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,9,josh-jacobs,Josh Jacobs,RB,RB,6500,7200
@@ -3574,7 +3574,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,10,jason-moore,Jason Moore,WR,0,3000,4500
 2019,10,andre-patton,Andre Patton,WR,0,3000,4500
 2019,10,mike-williams,Mike Williams,WR,0,4500,6000
-2019,10,OAK,Oakland Raiders,DST,DST,2500,3500
+2019,10,LV,Oakland Raiders,DST,DST,2500,3500
 2019,10,derek-carr,Derek Carr,QB,0,5600,7300
 2019,10,alec-ingold,Alec Ingold,RB,0,3000,4500
 2019,10,josh-jacobs,Josh Jacobs,RB,0,5700,7700
@@ -4182,7 +4182,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,11,stanley-morgan,Stanley Morgan,WR,WR,3000,4500
 2019,11,auden-tate,Auden Tate,WR,WR,4200,5300
 2019,11,damion-willis,Damion Willis,WR,WR,3000,4500
-2019,11,OAK,Oakland Raiders,DST,DST,3300,5000
+2019,11,LV,Oakland Raiders,DST,DST,3300,5000
 2019,11,derek-carr,Derek Carr,QB,QB,6100,7400
 2019,11,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,11,josh-jacobs,Josh Jacobs,RB,RB,6900,8000
@@ -4295,7 +4295,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,12,will-fuller,Will Fuller,WR,WR,5300,6300
 2019,12,deandre-hopkins,DeAndre Hopkins,WR,WR,7500,8300
 2019,12,kenny-stills,Kenny Stills,WR,WR,4100,5400
-2019,12,OAK,Oakland Raiders,DST,DST,3600,4600
+2019,12,LV,Oakland Raiders,DST,DST,3600,4600
 2019,12,derek-carr,Derek Carr,QB,QB,6100,7400
 2019,12,mike-glennon,Mike Glennon,QB,QB,4300,6000
 2019,12,alec-ingold,Alec Ingold,RB,RB,3000,4500
@@ -4941,7 +4941,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,13,andy-isabella,Andy Isabella,WR,WR,3200,4900
 2019,13,christian-kirk,Christian Kirk,WR,WR,5700,6100
 2019,13,trent-sherfield,Trent Sherfield,WR,WR,3000,4500
-2019,13,OAK,Oakland Raiders,DST,DST,1700,3100
+2019,13,LV,Oakland Raiders,DST,DST,1700,3100
 2019,13,derek-carr,Derek Carr,QB,QB,5500,7200
 2019,13,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,13,josh-jacobs,Josh Jacobs,RB,RB,6900,7700
@@ -5406,7 +5406,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,14,cody-hollister,Cody Hollister,WR,WR,3000,4500
 2019,14,kalif-raymond,Kalif Raymond,WR,WR,3400,5100
 2019,14,tajae-sharpe,Tajae Sharpe,WR,WR,3000,4700
-2019,14,OAK,Oakland Raiders,DST,DST,2700,3400
+2019,14,LV,Oakland Raiders,DST,DST,2700,3400
 2019,14,derek-carr,Derek Carr,QB,QB,5000,7000
 2019,14,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,14,jalen-richard,Jalen Richard,RB,RB,3900,5000
@@ -5737,7 +5737,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,15,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,15,josh-jacobs,Josh Jacobs,RB,RB,7000,7700
 2019,15,zay-jones,Zay Jones,WR,WR,3500,4700
-2019,15,OAK,Oakland Raiders,DST,DST,3200,4400
+2019,15,LV,Oakland Raiders,DST,DST,3200,4400
 2019,15,jalen-richard,Jalen Richard,RB,RB,3700,5500
 2019,15,darren-waller,Darren Waller,TE,TE,5500,6200
 2019,15,deandre-washington,DeAndre Washington,RB,RB,4700,6300
@@ -6167,7 +6167,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,16,tim-patrick,Tim Patrick,WR,WR,3600,5400
 2019,16,diontae-spencer,Diontae Spencer,WR,WR,3000,4600
 2019,16,courtland-sutton,Courtland Sutton,WR,WR,6200,7100
-2019,16,OAK,Oakland Raiders,DST,DST,2300,3700
+2019,16,LV,Oakland Raiders,DST,DST,2300,3700
 2019,16,derek-carr,Derek Carr,QB,QB,5300,7300
 2019,16,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,16,jalen-richard,Jalen Richard,RB,RB,3500,5200
@@ -6626,7 +6626,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2019,17,jaleel-scott,Jaleel Scott,WR,WR,3000,4500
 2019,17,willie-snead,Willie Snead,WR,WR,3600,4500
 2019,17,de-anthony-thomas,De'Anthony Thomas,WR,WR,3000,4500
-2019,17,OAK,Oakland Raiders,DST,DST,2500,4300
+2019,17,LV,Oakland Raiders,DST,DST,2500,4300
 2019,17,derek-carr,Derek Carr,QB,QB,5500,7300
 2019,17,alec-ingold,Alec Ingold,RB,RB,3000,4500
 2019,17,jalen-richard,Jalen Richard,RB,RB,3800,5500

@@ -391,7 +391,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,1,brandin-cooks,Brandin Cooks,WR,WR,5600,7000
 2018,1,robert-woods,Robert Woods,WR,WR,6200,6500
 2018,1,pharoh-cooper,Pharoh Cooper,WR,WR,3000,4500
-2018,1,OAK,Oakland Raiders,DST,DST,2200,3700
+2018,1,LV,Oakland Raiders,DST,DST,2200,3700
 2018,1,derek-carr,Derek Carr,QB,QB,6000,6600
 2018,1,jalen-richard,Jalen Richard,RB,RB,3200,4600
 2018,1,marshawn-lynch,Marshawn Lynch,RB,RB,5100,6300
@@ -779,7 +779,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,2,allen-hurns,Allen Hurns,WR,WR,3800,5400
 2018,2,terrance-williams,Terrance Williams,WR,WR,3400,5300
 2018,2,michael-gallup,Michael Gallup,WR,WR,3700,5100
-2018,2,OAK,Oakland Raiders,DST,DST,2300,3600
+2018,2,LV,Oakland Raiders,DST,DST,2300,3600
 2018,2,derek-carr,Derek Carr,QB,QB,5500,6600
 2018,2,marshawn-lynch,Marshawn Lynch,RB,RB,5100,6300
 2018,2,jalen-richard,Jalen Richard,RB,RB,3400,4600
@@ -965,7 +965,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,3,stefon-diggs,Stefon Diggs,WR,WR,7700,8300
 2018,3,laquon-treadwell,Laquon Treadwell,WR,WR,3500,4600
 2018,3,brandon-zylstra,Brandon Zylstra,WR,WR,3000,4500
-2018,3,OAK,Oakland Raiders,DST,DST,2400,3800
+2018,3,LV,Oakland Raiders,DST,DST,2400,3800
 2018,3,derek-carr,Derek Carr,QB,QB,5400,6800
 2018,3,marshawn-lynch,Marshawn Lynch,RB,RB,4900,6400
 2018,3,jalen-richard,Jalen Richard,RB,RB,3400,4600
@@ -1570,7 +1570,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,4,antonio-callaway,Antonio Callaway,WR,WR,4300,4500
 2018,4,rashard-higgins,Rashard Higgins,WR,WR,3400,4500
 2018,4,derrick-willies,Derrick Willies,WR,WR,3000,4500
-2018,4,OAK,Oakland Raiders,DST,DST,2500,4100
+2018,4,LV,Oakland Raiders,DST,DST,2500,4100
 2018,4,derek-carr,Derek Carr,QB,QB,5100,7000
 2018,4,marshawn-lynch,Marshawn Lynch,RB,RB,4800,6400
 2018,4,jalen-richard,Jalen Richard,RB,RB,3400,4600
@@ -1934,7 +1934,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,5,de-anthony-thomas,De'Anthony Thomas,WR,WR,3200,4500
 2018,5,demarcus-robinson,Demarcus Robinson,WR,WR,3000,4600
 2018,5,marcus-kemp,Marcus Kemp,WR,WR,3000,4500
-2018,5,OAK,Oakland Raiders,DST,DST,2000,3600
+2018,5,LV,Oakland Raiders,DST,DST,2000,3600
 2018,5,derek-carr,Derek Carr,QB,QB,5200,7000
 2018,5,marshawn-lynch,Marshawn Lynch,RB,RB,5500,6500
 2018,5,jalen-richard,Jalen Richard,RB,RB,3400,4600
@@ -2210,7 +2210,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,6,brandon-marshall,Brandon Marshall,WR,WR,3700,5000
 2018,6,jaron-brown,Jaron Brown,WR,WR,3500,4500
 2018,6,doug-baldwin,Doug Baldwin,WR,WR,5300,6200
-2018,6,OAK,Oakland Raiders,DST,DST,2100,3500
+2018,6,LV,Oakland Raiders,DST,DST,2100,3500
 2018,6,derek-carr,Derek Carr,QB,QB,5100,6900
 2018,6,marshawn-lynch,Marshawn Lynch,RB,RB,5300,6500
 2018,6,jalen-richard,Jalen Richard,RB,RB,3400,5000
@@ -3112,7 +3112,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,8,t-y-hilton,T.Y. Hilton,WR,WR,6300,7400
 2018,8,chester-rogers,Chester Rogers,WR,WR,4200,5600
 2018,8,zach-pascal,Zach Pascal,WR,WR,3300,4600
-2018,8,OAK,Oakland Raiders,DST,DST,2200,3300
+2018,8,LV,Oakland Raiders,DST,DST,2200,3300
 2018,8,derek-carr,Derek Carr,QB,QB,5200,6900
 2018,8,jalen-richard,Jalen Richard,RB,RB,4200,5700
 2018,8,doug-martin,Doug Martin,RB,RB,4400,6000
@@ -3237,7 +3237,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,8,andre-holmes,Andre Holmes,WR,WR,3100,4500
 2018,8,ray-ray-mccloud,Ray-Ray McCloud,WR,WR,3000,4500
 2018,8,cam-phillips,Cam Phillips,WR,WR,3000,4500
-2018,9,OAK,Oakland Raiders,DST,DST,2400,3300
+2018,9,LV,Oakland Raiders,DST,DST,2400,3300
 2018,9,derek-carr,Derek Carr,QB,QB,5400,6900
 2018,9,aj-mccarron,AJ McCarron,QB,QB,4400,6000
 2018,9,jalen-richard,Jalen Richard,RB,RB,4900,5700
@@ -3841,7 +3841,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,10,tyrell-williams,Tyrell Williams,WR,WR,4500,6500
 2018,10,mike-williams,Mike Williams,WR,WR,3800,5400
 2018,10,travis-benjamin,Travis Benjamin,WR,WR,3100,4600
-2018,10,OAK,Oakland Raiders,DST,DST,2000,3000
+2018,10,LV,Oakland Raiders,DST,DST,2000,3000
 2018,10,derek-carr,Derek Carr,QB,QB,4700,6600
 2018,10,jalen-richard,Jalen Richard,RB,RB,4800,5400
 2018,10,doug-martin,Doug Martin,RB,RB,4200,5800
@@ -4199,7 +4199,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,11,mike-williams,Mike Williams,WR,WR,3600,5400
 2018,11,travis-benjamin,Travis Benjamin,WR,WR,3100,4600
 2018,11,geremy-davis,Geremy Davis,WR,WR,3000,4500
-2018,11,OAK,Oakland Raiders,DST,DST,2300,3400
+2018,11,LV,Oakland Raiders,DST,DST,2300,3400
 2018,11,derek-carr,Derek Carr,QB,QB,4700,6600
 2018,11,jalen-richard,Jalen Richard,RB,RB,4300,5300
 2018,11,doug-martin,Doug Martin,RB,RB,4500,6200
@@ -4382,7 +4382,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,12,michael-thomas,Michael Thomas,WR,WR,8900,8800
 2018,12,keith-kirkwood,Keith Kirkwood,WR,WR,3200,5200
 2018,12,austin-carr,Austin Carr,WR,WR,3000,5300
-2018,12,OAK,Oakland Raiders,DST,DST,2000,3400
+2018,12,LV,Oakland Raiders,DST,DST,2000,3400
 2018,12,derek-carr,Derek Carr,QB,QB,4600,6600
 2018,12,aj-mccarron,AJ McCarron,QB,QB,4200,6000
 2018,12,jalen-richard,Jalen Richard,RB,RB,4300,5300
@@ -4971,7 +4971,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,13,demarcus-robinson,Demarcus Robinson,WR,WR,3000,4600
 2018,13,marcus-kemp,Marcus Kemp,WR,WR,3000,4500
 2018,13,gehrig-dieter,Gehrig Dieter,WR,WR,3000,4500
-2018,13,OAK,Oakland Raiders,DST,DST,2000,2000
+2018,13,LV,Oakland Raiders,DST,DST,2000,2000
 2018,13,derek-carr,Derek Carr,QB,QB,5000,6600
 2018,13,jalen-richard,Jalen Richard,RB,RB,4300,4800
 2018,13,doug-martin,Doug Martin,RB,RB,4200,6100
@@ -5472,7 +5472,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,14,ryan-switzer,Ryan Switzer,WR,WR,3600,4800
 2018,14,james-washington,James Washington,WR,WR,3000,4600
 2018,14,darrius-heyward-bey,Darrius Heyward-Bey,WR,WR,3000,4500
-2018,14,OAK,Oakland Raiders,DST,DST,2000,3000
+2018,14,LV,Oakland Raiders,DST,DST,2000,3000
 2018,14,derek-carr,Derek Carr,QB,QB,5000,6600
 2018,14,jalen-richard,Jalen Richard,RB,RB,4100,4800
 2018,14,doug-martin,Doug Martin,RB,RB,4300,6000
@@ -5821,7 +5821,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,15,john-brown,John Brown,WR,WR,4400,4800
 2018,15,michael-crabtree,Michael Crabtree,WR,WR,4300,5100
 2018,15,chris-moore,Chris Moore,WR,WR,3000,4500
-2018,15,OAK,Oakland Raiders,DST,DST,2400,3700
+2018,15,LV,Oakland Raiders,DST,DST,2400,3700
 2018,15,derek-carr,Derek Carr,QB,QB,5400,6800
 2018,15,jalen-richard,Jalen Richard,RB,RB,3900,4800
 2018,15,doug-martin,Doug Martin,RB,RB,4700,6300
@@ -6359,7 +6359,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,16,tim-patrick,Tim Patrick,WR,WR,4000,5500
 2018,16,andre-holmes,Andre Holmes,WR,WR,3000,4500
 2018,16,river-cracraft,River Cracraft,WR,WR,3000,4500
-2018,16,OAK,Oakland Raiders,DST,DST,2000,3500
+2018,16,LV,Oakland Raiders,DST,DST,2000,3500
 2018,16,derek-carr,Derek Carr,QB,QB,4900,6700
 2018,16,jalen-richard,Jalen Richard,RB,RB,4000,4800
 2018,16,doug-martin,Doug Martin,RB,RB,4400,5800
@@ -6702,7 +6702,7 @@ season,week,player_id,player,dk_position,fd_position,dk_salary,fd_salary
 2018,17,doug-baldwin,Doug Baldwin,WR,WR,6100,6700
 2018,17,david-moore,David Moore,WR,WR,3700,5300
 2018,17,jaron-brown,Jaron Brown,WR,WR,3000,4800
-2018,17,OAK,Oakland Raiders,DST,DST,2200,3000
+2018,17,LV,Oakland Raiders,DST,DST,2200,3000
 2018,17,derek-carr,Derek Carr,QB,QB,5100,6800
 2018,17,jalen-richard,Jalen Richard,RB,RB,4200,4800
 2018,17,doug-martin,Doug Martin,RB,RB,4400,5800
