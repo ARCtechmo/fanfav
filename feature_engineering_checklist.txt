@@ -1,0 +1,60 @@
+
+Feature Engineering Remodeled – Standardized Feature Checklist
+==============================================================
+
+I. Baseline Stats (Raw Inputs Only – No Engineering)
+----------------------------------------------------
+- fpts
+- tgt (targets)
+- rec (receptions)
+- rec_yds
+
+II. Rolling Averages (3, 5, 7 games)
+------------------------------------
+Applies to:
+- fpts, tgt, rec, rec_yds
+
+Naming Convention:
+- <stat>_<N>game_avg
+- e.g., fpts_3game_avg, rec_5game_avg
+
+III. Percentiles (3, 5, 7 games)
+--------------------------------
+Applies to:
+- fpts, tgt, rec, rec_yds
+
+Naming Convention:
+- <stat>_<N>game_percentile
+- e.g., tgt_3game_percentile
+
+IV. Threshold Flags
+--------------------
+Binary indicators like:
+- tgt_ge_7
+- rec_ge_5
+
+V. Efficiency / Rate Stats
+---------------------------
+- yards_per_target = rec_yds / tgt
+- catch_rate = rec / tgt
+
+VI. Rolling Rate Stats (3, 5, 7 games)
+--------------------------------------
+- catch_rate_<N>game_avg
+- yards_per_target_<N>game_avg
+
+VII. Value Ratios and Trends
+-----------------------------
+- value_ratio_dk = fpts / dk_salary
+- value_ratio_<N>game_avg
+- undervalued_trend = value_ratio_dk > value_ratio_<N>game_avg
+
+VIII. Imputation & Activity Flags
+----------------------------------
+- is_active
+- is_missing_<feature>
+
+IX. Outcome Targets
+--------------------
+- fpts_hit_value_dk
+- fpts (for regression)

@@ -1,0 +1,29 @@
+
+NGS WR Feature List
+====================
+
+Base Features (from NFL NGS API)
+--------------------------------
+- avg_cushion
+- avg_separation
+- avg_intended_air_yards
+- percent_share_of_intended_air_yards
+- catch_percentage
+- avg_yac
+- avg_expected_yac
+- avg_yac_above_expectation
+
+Engineered Features
+-------------------
+- separation_per_cushion           = avg_separation / avg_cushion
+- yac_efficiency_ratio             = avg_yac / avg_expected_yac
+- deep_threat_flag                 = 1 if avg_intended_air_yards >= 13 else 0
+- primary_target_flag              = 1 if percent_share_of_intended_air_yards >= 0.25 else 0
+- adjusted_catch_rate              = catch_percentage * avg_separation
+- yac_bonus                        = avg_yac_above_expectation * percent_share_of_intended_air_yards
+
+Notes
+-----
+- Do not apply rolling averages or percentiles to NGS data. Metrics are already averaged per game.
+- Missing values are minimal (<1%) and can be imputed with 0 or flagged.
+- Drop non-modeling columns such as 'season', 'week', 'team_abbr', 'receiving_yards', 'rec_touchdowns'.
